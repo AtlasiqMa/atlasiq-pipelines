@@ -11,13 +11,13 @@ default_args = {
 }
 
 with DAG(
-    dag_id="worldbank_tourism",
-    description="Extract Morocco tourism data from World Bank API",
+    dag_id="extract_worldbank",
+    description="Extract Morocco tourism statistics from World Bank API",
     default_args=default_args,
-    start_date=datetime(2026, 3, 3),
+    start_date=datetime(2024, 1, 1),
     schedule_interval="@daily",
     catchup=False,
-    tags=["worldbank", "extraction", "tourism"],
+    tags=["extract", "worldbank", "morocco"],
 ) as dag:
 
     extract_arrivals = PythonOperator(
