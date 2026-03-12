@@ -1,6 +1,6 @@
 x-airflow-common:
   &airflow-common
-  image: apache/airflow:2.8.1
+  build: .
   env_file:
     - .env
   environment:
