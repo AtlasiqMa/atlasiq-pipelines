@@ -1,0 +1,104 @@
+[
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": null,
+    "departure": {
+      "airport": "Essaouira",
+      "timezone": "Africa/Casablanca",
+      "iata": "ESU",
+      "icao": "GMMI",
+      "terminal": null,
+      "gate": "1",
+      "delay": null,
+      "scheduled": "2026-03-12T09:15:00+00:00",
+      "estimated": "2026-03-12T09:15:00+00:00",
+      "actual": "2026-03-12T09:29:00+00:00",
+      "estimated_runway": "2026-03-12T09:29:00+00:00",
+      "actual_runway": "2026-03-12T09:29:00+00:00"
+    },
+    "arrival": {
+      "airport": "Weeze",
+      "timezone": "Europe/Berlin",
+      "iata": "NRN",
+      "icao": "EDLV",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T14:05:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T14:01:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "5560",
+      "iata": "FR5560",
+      "icao": "RYR5560",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "4CAFD0"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-11",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Essaouira",
+      "timezone": "Africa/Casablanca",
+      "iata": "ESU",
+      "icao": "GMMI",
+      "terminal": null,
+      "gate": "1",
+      "delay": null,
+      "scheduled": "2026-03-11T18:20:00+00:00",
+      "estimated": "2026-03-11T18:20:00+00:00",
+      "actual": "2026-03-11T18:09:00+00:00",
+      "estimated_runway": "2026-03-11T18:09:00+00:00",
+      "actual_runway": "2026-03-11T18:09:00+00:00"
+    },
+    "arrival": {
+      "airport": "Charleroi Brussels South",
+      "timezone": "Europe/Brussels",
+      "iata": "CRL",
+      "icao": "EBCI",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-11T22:55:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-11T22:27:00+00:00",
+      "actual": "2026-03-11T22:29:00+00:00",
+      "estimated_runway": "2026-03-11T22:29:00+00:00",
+      "actual_runway": "2026-03-11T22:29:00+00:00"
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "5281",
+      "iata": "FR5281",
+      "icao": "RYR5281",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "4D2238"
+    },
+    "live": null
+  }
+]

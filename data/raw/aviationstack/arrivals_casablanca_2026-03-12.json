@@ -1,0 +1,5379 @@
+[
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Roberts International",
+      "timezone": "Africa/Monrovia",
+      "iata": "ROB",
+      "icao": "GLRB",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T03:05:00+00:00",
+      "estimated": "2026-03-13T03:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T07:15:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "566",
+      "iata": "AT566",
+      "icao": "RAM566",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Roberts International",
+      "timezone": "Africa/Monrovia",
+      "iata": "ROB",
+      "icao": "GLRB",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T03:05:00+00:00",
+      "estimated": "2026-03-13T03:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T07:15:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Turkish Airlines",
+      "iata": "TK",
+      "icao": "THY"
+    },
+    "flight": {
+      "number": "8309",
+      "iata": "TK8309",
+      "icao": "THY8309",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "566",
+        "flight_iata": "at566",
+        "flight_icao": "ram566"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Roberts International",
+      "timezone": "Africa/Monrovia",
+      "iata": "ROB",
+      "icao": "GLRB",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T03:05:00+00:00",
+      "estimated": "2026-03-13T03:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T07:15:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "British Airways",
+      "iata": "BA",
+      "icao": "BAW"
+    },
+    "flight": {
+      "number": "8435",
+      "iata": "BA8435",
+      "icao": "BAW8435",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "566",
+        "flight_iata": "at566",
+        "flight_icao": "ram566"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Roberts International",
+      "timezone": "Africa/Monrovia",
+      "iata": "ROB",
+      "icao": "GLRB",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T03:05:00+00:00",
+      "estimated": "2026-03-13T03:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T07:15:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "American Airlines",
+      "iata": "AA",
+      "icao": "AAL"
+    },
+    "flight": {
+      "number": "7977",
+      "iata": "AA7977",
+      "icao": "AAL7977",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "566",
+        "flight_iata": "at566",
+        "flight_icao": "ram566"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Blaise Diagne International Airport\r\n",
+      "timezone": null,
+      "iata": "DSS",
+      "icao": "GOBD",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T02:35:00+00:00",
+      "estimated": "2026-03-13T02:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "500",
+      "iata": "AT500",
+      "icao": "RAM500",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Blaise Diagne International Airport\r\n",
+      "timezone": null,
+      "iata": "DSS",
+      "icao": "GOBD",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T02:35:00+00:00",
+      "estimated": "2026-03-13T02:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR"
+    },
+    "flight": {
+      "number": "4561",
+      "iata": "QR4561",
+      "icao": "QTR4561",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "500",
+        "flight_iata": "at500",
+        "flight_icao": "ram500"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Blaise Diagne International Airport\r\n",
+      "timezone": null,
+      "iata": "DSS",
+      "icao": "GOBD",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T02:35:00+00:00",
+      "estimated": "2026-03-13T02:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air Senegal",
+      "iata": "HC",
+      "icao": "SZN"
+    },
+    "flight": {
+      "number": "3033",
+      "iata": "HC3033",
+      "icao": "SZN3033",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "500",
+        "flight_iata": "at500",
+        "flight_icao": "ram500"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Blaise Diagne International Airport\r\n",
+      "timezone": null,
+      "iata": "DSS",
+      "icao": "GOBD",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T02:35:00+00:00",
+      "estimated": "2026-03-13T02:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "icao": "ETD"
+    },
+    "flight": {
+      "number": "4214",
+      "iata": "EY4214",
+      "icao": "ETD4214",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "500",
+        "flight_iata": "at500",
+        "flight_icao": "ram500"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Yundum International",
+      "timezone": "Africa/Banjul",
+      "iata": "BJL",
+      "icao": "GBYD",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T02:30:00+00:00",
+      "estimated": "2026-03-13T02:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "578",
+      "iata": "AT578",
+      "icao": "RAM578",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Yundum International",
+      "timezone": "Africa/Banjul",
+      "iata": "BJL",
+      "icao": "GBYD",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T02:30:00+00:00",
+      "estimated": "2026-03-13T02:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR"
+    },
+    "flight": {
+      "number": "4583",
+      "iata": "QR4583",
+      "icao": "QTR4583",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "578",
+        "flight_iata": "at578",
+        "flight_icao": "ram578"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Ouagadougou",
+      "timezone": "Africa/Ouagadougou",
+      "iata": "OUA",
+      "icao": "DFFD",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T02:15:00+00:00",
+      "estimated": "2026-03-13T02:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "544",
+      "iata": "AT544",
+      "icao": "RAM544",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Ouagadougou",
+      "timezone": "Africa/Ouagadougou",
+      "iata": "OUA",
+      "icao": "DFFD",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T02:15:00+00:00",
+      "estimated": "2026-03-13T02:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR"
+    },
+    "flight": {
+      "number": "4577",
+      "iata": "QR4577",
+      "icao": "QTR4577",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "544",
+        "flight_iata": "at544",
+        "flight_icao": "ram544"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Conakry",
+      "timezone": "Africa/Conakry",
+      "iata": "CKY",
+      "icao": "GUCY",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T02:20:00+00:00",
+      "estimated": "2026-03-13T02:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T06:00:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "526",
+      "iata": "AT526",
+      "icao": "RAM526",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Conakry",
+      "timezone": "Africa/Conakry",
+      "iata": "CKY",
+      "icao": "GUCY",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T02:20:00+00:00",
+      "estimated": "2026-03-13T02:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T06:00:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR"
+    },
+    "flight": {
+      "number": "4545",
+      "iata": "QR4545",
+      "icao": "QTR4545",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "526",
+        "flight_iata": "at526",
+        "flight_icao": "ram526"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Amilcar Cabral International",
+      "timezone": "Atlantic/Cape_Verde",
+      "iata": "SID",
+      "icao": "GVAC",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T01:55:00+00:00",
+      "estimated": "2026-03-13T01:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T06:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "596",
+      "iata": "AT596",
+      "icao": "RAM596",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Nouakchott",
+      "timezone": "Africa/Nouakchott",
+      "iata": "NKC",
+      "icao": "GQNO",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T02:45:00+00:00",
+      "estimated": "2026-03-13T02:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:30:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "510",
+      "iata": "AT510",
+      "icao": "RAM510",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Nouakchott",
+      "timezone": "Africa/Nouakchott",
+      "iata": "NKC",
+      "icao": "GQNO",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T02:45:00+00:00",
+      "estimated": "2026-03-13T02:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:30:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR"
+    },
+    "flight": {
+      "number": "4581",
+      "iata": "QR4581",
+      "icao": "QTR4581",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "510",
+        "flight_iata": "at510",
+        "flight_icao": "ram510"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Nouakchott",
+      "timezone": "Africa/Nouakchott",
+      "iata": "NKC",
+      "icao": "GQNO",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T02:45:00+00:00",
+      "estimated": "2026-03-13T02:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:30:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Mauritania Airlines International",
+      "iata": "L6",
+      "icao": "MAI"
+    },
+    "flight": {
+      "number": "6114",
+      "iata": "L66114",
+      "icao": "MAI6114",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "510",
+        "flight_iata": "at510",
+        "flight_icao": "ram510"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Nouakchott",
+      "timezone": "Africa/Nouakchott",
+      "iata": "NKC",
+      "icao": "GQNO",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T02:45:00+00:00",
+      "estimated": "2026-03-13T02:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:30:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "American Airlines",
+      "iata": "AA",
+      "icao": "AAL"
+    },
+    "flight": {
+      "number": "7987",
+      "iata": "AA7987",
+      "icao": "AAL7987",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "510",
+        "flight_iata": "at510",
+        "flight_icao": "ram510"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Niamey",
+      "timezone": "Africa/Niamey",
+      "iata": "NIM",
+      "icao": "DRRN",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T03:15:00+00:00",
+      "estimated": "2026-03-13T03:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T06:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "546",
+      "iata": "AT546",
+      "icao": "RAM546",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Niamey",
+      "timezone": "Africa/Niamey",
+      "iata": "NIM",
+      "icao": "DRRN",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T03:15:00+00:00",
+      "estimated": "2026-03-13T03:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T06:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR"
+    },
+    "flight": {
+      "number": "4586",
+      "iata": "QR4586",
+      "icao": "QTR4586",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "546",
+        "flight_iata": "at546",
+        "flight_icao": "ram546"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Niamey",
+      "timezone": "Africa/Niamey",
+      "iata": "NIM",
+      "icao": "DRRN",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T03:15:00+00:00",
+      "estimated": "2026-03-13T03:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T06:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "icao": "ETD"
+    },
+    "flight": {
+      "number": "4243",
+      "iata": "EY4243",
+      "icao": "ETD4243",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "546",
+        "flight_iata": "at546",
+        "flight_icao": "ram546"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Bamako",
+      "timezone": "Africa/Bamako",
+      "iata": "BKO",
+      "icao": "GABS",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T01:55:00+00:00",
+      "estimated": "2026-03-13T01:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "522",
+      "iata": "AT522",
+      "icao": "RAM522",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Bamako",
+      "timezone": "Africa/Bamako",
+      "iata": "BKO",
+      "icao": "GABS",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T01:55:00+00:00",
+      "estimated": "2026-03-13T01:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR"
+    },
+    "flight": {
+      "number": "4579",
+      "iata": "QR4579",
+      "icao": "QTR4579",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "522",
+        "flight_iata": "at522",
+        "flight_icao": "ram522"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Ouagadougou",
+      "timezone": "Africa/Ouagadougou",
+      "iata": "OUA",
+      "icao": "DFFD",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T00:40:00+00:00",
+      "estimated": "2026-03-13T00:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T04:25:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "327",
+      "iata": "AT327",
+      "icao": "RAM327",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Sheremetyevo International",
+      "timezone": "Europe/Moscow",
+      "iata": "SVO",
+      "icao": "UUEE",
+      "terminal": "C",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T01:40:00+00:00",
+      "estimated": "2026-03-13T01:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T04:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "223",
+      "iata": "AT223",
+      "icao": "RAM223",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Sabiha Gokcen",
+      "timezone": "Europe/Istanbul",
+      "iata": "SAW",
+      "icao": "LTFJ",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T00:15:00+00:00",
+      "estimated": "2026-03-13T00:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T01:59:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air Arabia",
+      "iata": "G9",
+      "icao": "ABY"
+    },
+    "flight": {
+      "number": "9902",
+      "iata": "G99902",
+      "icao": "ABY9902",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "02019C"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "King Abdulaziz International",
+      "timezone": "Asia/Riyadh",
+      "iata": "JED",
+      "icao": "OEJN",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T01:00:00+00:00",
+      "estimated": "2026-03-13T01:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:00:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Saudia",
+      "iata": "SV",
+      "icao": "SVA"
+    },
+    "flight": {
+      "number": "377",
+      "iata": "SV377",
+      "icao": "SVA377",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "710120"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "King Abdulaziz International",
+      "timezone": "Asia/Riyadh",
+      "iata": "JED",
+      "icao": "OEJN",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-13T01:00:00+00:00",
+      "estimated": "2026-03-13T01:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T05:00:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Garuda Indonesia",
+      "iata": "GA",
+      "icao": "GIA"
+    },
+    "flight": {
+      "number": "9658",
+      "iata": "GA9658",
+      "icao": "GIA9658",
+      "codeshared": {
+        "airline_name": "saudia",
+        "airline_iata": "sv",
+        "airline_icao": "sva",
+        "flight_number": "377",
+        "flight_iata": "sv377",
+        "flight_icao": "sva377"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "710120"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Pierre Elliott Trudeau International",
+      "timezone": "America/Montreal",
+      "iata": "YUL",
+      "icao": "CYUL",
+      "terminal": null,
+      "gate": "A68",
+      "delay": null,
+      "scheduled": "2026-03-12T21:40:00+00:00",
+      "estimated": "2026-03-12T21:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T08:40:00+00:00",
+      "delay": 10,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air Canada",
+      "iata": "AC",
+      "icao": "ACA"
+    },
+    "flight": {
+      "number": "72",
+      "iata": "AC72",
+      "icao": "ACA72",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "C01074"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Pierre Elliott Trudeau International",
+      "timezone": "America/Montreal",
+      "iata": "YUL",
+      "icao": "CYUL",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T21:35:00+00:00",
+      "estimated": "2026-03-12T21:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T08:15:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "209",
+      "iata": "AT209",
+      "icao": "RAM209",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "John F Kennedy International",
+      "timezone": "America/New_York",
+      "iata": "JFK",
+      "icao": "KJFK",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T21:00:00+00:00",
+      "estimated": "2026-03-12T21:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T07:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "201",
+      "iata": "AT201",
+      "icao": "RAM201",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "cancelled",
+    "departure": {
+      "airport": "Frankfurt International Airport",
+      "timezone": "Europe/Berlin",
+      "iata": "FRA",
+      "icao": "EDDF",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T21:45:00+00:00",
+      "estimated": "2026-03-12T21:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T00:20:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air Canada",
+      "iata": "AC",
+      "icao": "ACA"
+    },
+    "flight": {
+      "number": "9431",
+      "iata": "AC9431",
+      "icao": "ACA9431",
+      "codeshared": {
+        "airline_name": "lufthansa",
+        "airline_iata": "lh",
+        "airline_icao": "dlh",
+        "flight_number": "1330",
+        "flight_iata": "lh1330",
+        "flight_icao": "dlh1330"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Carthage",
+      "timezone": "Africa/Tunis",
+      "iata": "TUN",
+      "icao": "DTTA",
+      "terminal": "M",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T22:25:00+00:00",
+      "estimated": "2026-03-12T22:25:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T00:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Tunisair",
+      "iata": "TU",
+      "icao": "TAR"
+    },
+    "flight": {
+      "number": "705",
+      "iata": "TU705",
+      "icao": "TAR705",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Agadir Almassira",
+      "timezone": "Africa/Casablanca",
+      "iata": "AGA",
+      "icao": "GMAD",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T21:20:00+00:00",
+      "estimated": "2026-03-12T21:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T22:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "482",
+      "iata": "AT482",
+      "icao": "RAM482",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Agadir Almassira",
+      "timezone": "Africa/Casablanca",
+      "iata": "AGA",
+      "icao": "GMAD",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T21:20:00+00:00",
+      "estimated": "2026-03-12T21:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T22:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "icao": "ETD"
+    },
+    "flight": {
+      "number": "4210",
+      "iata": "EY4210",
+      "icao": "ETD4210",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "482",
+        "flight_iata": "at482",
+        "flight_icao": "ram482"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Istanbul Airport",
+      "timezone": "Europe/Istanbul",
+      "iata": "IST",
+      "icao": "LTFM",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T23:15:00+00:00",
+      "estimated": "2026-03-12T23:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T01:50:00+00:00",
+      "delay": 20,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Turkish Airlines",
+      "iata": "TK",
+      "icao": "THY"
+    },
+    "flight": {
+      "number": "6441",
+      "iata": "TK6441",
+      "icao": "THY6441",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "TC-JOV",
+      "iata": "A332",
+      "icao": "A332",
+      "icao24": "4BA9F6"
+    },
+    "live": {
+      "updated": "2026-03-12T20:45:14+00:00",
+      "latitude": 40.8613,
+      "longitude": 27.2946,
+      "altitude": 8526.78,
+      "direction": 285,
+      "speed_horizontal": 844.512,
+      "speed_vertical": 0,
+      "is_ground": false
+    }
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Heathrow",
+      "timezone": "Europe/London",
+      "iata": "LHR",
+      "icao": "EGLL",
+      "terminal": "4",
+      "gate": "E",
+      "delay": 15,
+      "scheduled": "2026-03-12T17:10:00+00:00",
+      "estimated": "2026-03-12T17:10:00+00:00",
+      "actual": "2026-03-12T17:51:00+00:00",
+      "estimated_runway": "2026-03-12T17:51:00+00:00",
+      "actual_runway": "2026-03-12T17:51:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:30:00+00:00",
+      "delay": 42,
+      "estimated": "2026-03-12T20:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Malaysia Airlines",
+      "iata": "MH",
+      "icao": "MAS"
+    },
+    "flight": {
+      "number": "5881",
+      "iata": "MH5881",
+      "icao": "MAS5881",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "801",
+        "flight_iata": "at801",
+        "flight_icao": "ram801"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0201A1"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Heathrow",
+      "timezone": "Europe/London",
+      "iata": "LHR",
+      "icao": "EGLL",
+      "terminal": "4",
+      "gate": "E",
+      "delay": 15,
+      "scheduled": "2026-03-12T17:10:00+00:00",
+      "estimated": "2026-03-12T17:10:00+00:00",
+      "actual": "2026-03-12T17:51:00+00:00",
+      "estimated_runway": "2026-03-12T17:51:00+00:00",
+      "actual_runway": "2026-03-12T17:51:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:30:00+00:00",
+      "delay": 42,
+      "estimated": "2026-03-12T20:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "British Airways",
+      "iata": "BA",
+      "icao": "BAW"
+    },
+    "flight": {
+      "number": "8441",
+      "iata": "BA8441",
+      "icao": "BAW8441",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "801",
+        "flight_iata": "at801",
+        "flight_icao": "ram801"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0201A1"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Charles De Gaulle",
+      "timezone": "Europe/Paris",
+      "iata": "CDG",
+      "icao": "LFPG",
+      "terminal": "2F",
+      "gate": "F05",
+      "delay": 27,
+      "scheduled": "2026-03-12T18:15:00+00:00",
+      "estimated": "2026-03-12T18:15:00+00:00",
+      "actual": "2026-03-12T19:10:00+00:00",
+      "estimated_runway": "2026-03-12T19:10:00+00:00",
+      "actual_runway": "2026-03-12T19:10:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:25:00+00:00",
+      "delay": 27,
+      "estimated": "2026-03-12T20:52:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "KLM",
+      "iata": "KL",
+      "icao": "KLM"
+    },
+    "flight": {
+      "number": "2116",
+      "iata": "KL2116",
+      "icao": "KLM2116",
+      "codeshared": {
+        "airline_name": "air france",
+        "airline_iata": "af",
+        "airline_icao": "afr",
+        "flight_number": "1496",
+        "flight_iata": "af1496",
+        "flight_icao": "afr1496"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "392AEE"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Charles De Gaulle",
+      "timezone": "Europe/Paris",
+      "iata": "CDG",
+      "icao": "LFPG",
+      "terminal": "2F",
+      "gate": "F05",
+      "delay": 27,
+      "scheduled": "2026-03-12T18:15:00+00:00",
+      "estimated": "2026-03-12T18:15:00+00:00",
+      "actual": "2026-03-12T19:10:00+00:00",
+      "estimated_runway": "2026-03-12T19:10:00+00:00",
+      "actual_runway": "2026-03-12T19:10:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:25:00+00:00",
+      "delay": 27,
+      "estimated": "2026-03-12T20:52:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Delta Air Lines",
+      "iata": "DL",
+      "icao": "DAL"
+    },
+    "flight": {
+      "number": "8212",
+      "iata": "DL8212",
+      "icao": "DAL8212",
+      "codeshared": {
+        "airline_name": "air france",
+        "airline_iata": "af",
+        "airline_icao": "afr",
+        "flight_number": "1496",
+        "flight_iata": "af1496",
+        "flight_icao": "afr1496"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "392AEE"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "El Prat De Llobregat",
+      "timezone": "Europe/Madrid",
+      "iata": "BCN",
+      "icao": "LEBL",
+      "terminal": "1",
+      "gate": "D12",
+      "delay": null,
+      "scheduled": "2026-03-12T19:10:00+00:00",
+      "estimated": "2026-03-12T19:10:00+00:00",
+      "actual": "2026-03-12T19:21:00+00:00",
+      "estimated_runway": "2026-03-12T19:21:00+00:00",
+      "actual_runway": "2026-03-12T19:21:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:20:00+00:00",
+      "delay": 12,
+      "estimated": "2026-03-12T20:07:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iberia",
+      "iata": "IB",
+      "icao": "IBE"
+    },
+    "flight": {
+      "number": "7647",
+      "iata": "IB7647",
+      "icao": "IBE7647",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "961",
+        "flight_iata": "at961",
+        "flight_icao": "ram961"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "020073"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "cancelled",
+    "departure": {
+      "airport": "Frankfurt International Airport",
+      "timezone": "Europe/Berlin",
+      "iata": "FRA",
+      "icao": "EDDF",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T21:45:00+00:00",
+      "estimated": "2026-03-12T21:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T00:20:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Lufthansa",
+      "iata": "LH",
+      "icao": "DLH"
+    },
+    "flight": {
+      "number": "1330",
+      "iata": "LH1330",
+      "icao": "DLH1330",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "El Prat De Llobregat",
+      "timezone": "Europe/Madrid",
+      "iata": "BCN",
+      "icao": "LEBL",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T19:00:00+00:00",
+      "estimated": "2026-03-12T19:00:00+00:00",
+      "actual": "2026-03-12T19:13:00+00:00",
+      "estimated_runway": "2026-03-12T19:13:00+00:00",
+      "actual_runway": "2026-03-12T19:13:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T19:52:00+00:00",
+      "delay": 14,
+      "estimated": "2026-03-12T19:52:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Electra Airways",
+      "iata": "3E",
+      "icao": "EAF"
+    },
+    "flight": {
+      "number": "995",
+      "iata": "3E995",
+      "icao": "EAF995",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "45210C"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Blaise Diagne International Airport\r\n",
+      "timezone": null,
+      "iata": "DSS",
+      "icao": "GOBD",
+      "terminal": null,
+      "gate": null,
+      "delay": 3,
+      "scheduled": "2026-03-12T19:45:00+00:00",
+      "estimated": "2026-03-12T19:45:00+00:00",
+      "actual": "2026-03-12T20:10:00+00:00",
+      "estimated_runway": "2026-03-12T20:10:00+00:00",
+      "actual_runway": "2026-03-12T20:10:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T22:55:00+00:00",
+      "delay": 3,
+      "estimated": "2026-03-12T22:58:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "502",
+      "iata": "AT502",
+      "icao": "RAM502",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "CN-ROZ",
+      "iata": "B738",
+      "icao": "B738",
+      "icao24": "0200AF"
+    },
+    "live": {
+      "updated": "2026-03-12T20:45:14+00:00",
+      "latitude": 18.5468,
+      "longitude": -15.1415,
+      "altitude": 11277.6,
+      "direction": 24,
+      "speed_horizontal": 933.408,
+      "speed_vertical": 0,
+      "is_ground": false
+    }
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Blaise Diagne International Airport\r\n",
+      "timezone": null,
+      "iata": "DSS",
+      "icao": "GOBD",
+      "terminal": null,
+      "gate": null,
+      "delay": 3,
+      "scheduled": "2026-03-12T19:45:00+00:00",
+      "estimated": "2026-03-12T19:45:00+00:00",
+      "actual": "2026-03-12T20:10:00+00:00",
+      "estimated_runway": "2026-03-12T20:10:00+00:00",
+      "actual_runway": "2026-03-12T20:10:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T22:55:00+00:00",
+      "delay": 3,
+      "estimated": "2026-03-12T22:58:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air Senegal",
+      "iata": "HC",
+      "icao": "SZN"
+    },
+    "flight": {
+      "number": "3031",
+      "iata": "HC3031",
+      "icao": "SZN3031",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "502",
+        "flight_iata": "at502",
+        "flight_icao": "ram502"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200AF"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Blaise Diagne International Airport\r\n",
+      "timezone": null,
+      "iata": "DSS",
+      "icao": "GOBD",
+      "terminal": null,
+      "gate": null,
+      "delay": 3,
+      "scheduled": "2026-03-12T19:45:00+00:00",
+      "estimated": "2026-03-12T19:45:00+00:00",
+      "actual": "2026-03-12T20:10:00+00:00",
+      "estimated_runway": "2026-03-12T20:10:00+00:00",
+      "actual_runway": "2026-03-12T20:10:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T22:55:00+00:00",
+      "delay": 3,
+      "estimated": "2026-03-12T22:58:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "icao": "ETD"
+    },
+    "flight": {
+      "number": "4283",
+      "iata": "EY4283",
+      "icao": "ETD4283",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "502",
+        "flight_iata": "at502",
+        "flight_icao": "ram502"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200AF"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Gran Canaria",
+      "timezone": "Atlantic/Canary",
+      "iata": "LPA",
+      "icao": "GCLP",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T18:00:00+00:00",
+      "estimated": "2026-03-12T18:00:00+00:00",
+      "actual": "2026-03-12T17:51:00+00:00",
+      "estimated_runway": "2026-03-12T17:51:00+00:00",
+      "actual_runway": "2026-03-12T17:51:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:40:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T19:54:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR"
+    },
+    "flight": {
+      "number": "4593",
+      "iata": "QR4593",
+      "icao": "QTR4593",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "977",
+        "flight_iata": "at977",
+        "flight_icao": "ram977"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200F2"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Nouakchott",
+      "timezone": "Africa/Nouakchott",
+      "iata": "NKC",
+      "icao": "GQNO",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T19:55:00+00:00",
+      "estimated": "2026-03-12T19:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T22:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "520",
+      "iata": "AT520",
+      "icao": "RAM520",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200AE"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Nouakchott",
+      "timezone": "Africa/Nouakchott",
+      "iata": "NKC",
+      "icao": "GQNO",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T19:55:00+00:00",
+      "estimated": "2026-03-12T19:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T22:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Mauritania Airlines International",
+      "iata": "L6",
+      "icao": "MAI"
+    },
+    "flight": {
+      "number": "6520",
+      "iata": "L66520",
+      "icao": "MAI6520",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "520",
+        "flight_iata": "at520",
+        "flight_icao": "ram520"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200AE"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Nouakchott",
+      "timezone": "Africa/Nouakchott",
+      "iata": "NKC",
+      "icao": "GQNO",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T19:55:00+00:00",
+      "estimated": "2026-03-12T19:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T22:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "American Airlines",
+      "iata": "AA",
+      "icao": "AAL"
+    },
+    "flight": {
+      "number": "7952",
+      "iata": "AA7952",
+      "icao": "AAL7952",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "520",
+        "flight_iata": "at520",
+        "flight_icao": "ram520"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200AE"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Barajas",
+      "timezone": "Europe/Madrid",
+      "iata": "MAD",
+      "icao": "LEMD",
+      "terminal": "4S",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T19:05:00+00:00",
+      "estimated": "2026-03-12T19:05:00+00:00",
+      "actual": "2026-03-12T19:16:00+00:00",
+      "estimated_runway": "2026-03-12T19:16:00+00:00",
+      "actual_runway": "2026-03-12T19:16:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T19:50:00+00:00",
+      "delay": 11,
+      "estimated": "2026-03-12T19:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iberia",
+      "iata": "IB",
+      "icao": "IBE"
+    },
+    "flight": {
+      "number": "7642",
+      "iata": "IB7642",
+      "icao": "IBE7642",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "971",
+        "flight_iata": "at971",
+        "flight_icao": "ram971"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0201C3"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Lesquin",
+      "timezone": "Europe/Paris",
+      "iata": "LIL",
+      "icao": "LFQQ",
+      "terminal": null,
+      "gate": null,
+      "delay": 13,
+      "scheduled": "2026-03-12T20:10:00+00:00",
+      "estimated": "2026-03-12T20:10:00+00:00",
+      "actual": "2026-03-12T21:04:00+00:00",
+      "estimated_runway": "2026-03-12T21:04:00+00:00",
+      "actual_runway": "2026-03-12T21:04:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T22:45:00+00:00",
+      "delay": 13,
+      "estimated": "2026-03-12T22:58:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "TUIfly",
+      "iata": "X3",
+      "icao": "TUI"
+    },
+    "flight": {
+      "number": "7222",
+      "iata": "X37222",
+      "icao": "TUI7222",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "44D1B4"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Hassan I",
+      "timezone": "Africa/Casablanca",
+      "iata": "EUN",
+      "icao": "GMML",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T19:50:00+00:00",
+      "estimated": "2026-03-12T19:50:00+00:00",
+      "actual": "2026-03-12T20:03:00+00:00",
+      "estimated_runway": "2026-03-12T20:03:00+00:00",
+      "actual_runway": "2026-03-12T20:03:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T21:25:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T21:13:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "1413",
+      "iata": "AT1413",
+      "icao": "RAM1413",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "CN-ROR",
+      "iata": "B738",
+      "icao": "B738",
+      "icao24": "02007D"
+    },
+    "live": {
+      "updated": "2026-03-12T20:42:56+00:00",
+      "latitude": 30.9769,
+      "longitude": -9.8569,
+      "altitude": 10972.8,
+      "direction": 37,
+      "speed_horizontal": 890.812,
+      "speed_vertical": 0,
+      "is_ground": false
+    }
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Hassan I",
+      "timezone": "Africa/Casablanca",
+      "iata": "EUN",
+      "icao": "GMML",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T19:50:00+00:00",
+      "estimated": "2026-03-12T19:50:00+00:00",
+      "actual": "2026-03-12T20:03:00+00:00",
+      "estimated_runway": "2026-03-12T20:03:00+00:00",
+      "actual_runway": "2026-03-12T20:03:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T21:25:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T21:13:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Alitalia",
+      "iata": "AZ",
+      "icao": "AZA"
+    },
+    "flight": {
+      "number": "6119",
+      "iata": "AZ6119",
+      "icao": "AZA6119",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "1413",
+        "flight_iata": "at1413",
+        "flight_icao": "ram1413"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "02007D"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Bergamo - Orio al Serio",
+      "timezone": "Europe/Rome",
+      "iata": "BGY",
+      "icao": "LIME",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T19:20:00+00:00",
+      "estimated": "2026-03-12T19:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T21:25:00+00:00",
+      "delay": 97,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air Arabia",
+      "iata": "G9",
+      "icao": "ABY"
+    },
+    "flight": {
+      "number": "456",
+      "iata": "G9456",
+      "icao": "ABY456",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "020124"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "El Prat De Llobregat",
+      "timezone": "Europe/Madrid",
+      "iata": "BCN",
+      "icao": "LEBL",
+      "terminal": "1",
+      "gate": "D12",
+      "delay": null,
+      "scheduled": "2026-03-12T19:10:00+00:00",
+      "estimated": "2026-03-12T19:10:00+00:00",
+      "actual": "2026-03-12T19:21:00+00:00",
+      "estimated_runway": "2026-03-12T19:21:00+00:00",
+      "actual_runway": "2026-03-12T19:21:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:20:00+00:00",
+      "delay": 12,
+      "estimated": "2026-03-12T20:07:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "961",
+      "iata": "AT961",
+      "icao": "RAM961",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "020073"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Agadir Almassira",
+      "timezone": "Africa/Casablanca",
+      "iata": "AGA",
+      "icao": "GMAD",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T18:10:00+00:00",
+      "estimated": "2026-03-12T18:10:00+00:00",
+      "actual": "2026-03-12T17:56:00+00:00",
+      "estimated_runway": "2026-03-12T17:56:00+00:00",
+      "actual_runway": "2026-03-12T17:56:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T19:35:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T18:57:00+00:00",
+      "actual": "2026-03-12T18:58:00+00:00",
+      "estimated_runway": "2026-03-12T18:58:00+00:00",
+      "actual_runway": "2026-03-12T18:58:00+00:00"
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "438",
+      "iata": "AT438",
+      "icao": "RAM438",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "020142"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Agadir Almassira",
+      "timezone": "Africa/Casablanca",
+      "iata": "AGA",
+      "icao": "GMAD",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T18:10:00+00:00",
+      "estimated": "2026-03-12T18:10:00+00:00",
+      "actual": "2026-03-12T17:56:00+00:00",
+      "estimated_runway": "2026-03-12T17:56:00+00:00",
+      "actual_runway": "2026-03-12T17:56:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T19:35:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T18:57:00+00:00",
+      "actual": "2026-03-12T18:58:00+00:00",
+      "estimated_runway": "2026-03-12T18:58:00+00:00",
+      "actual_runway": "2026-03-12T18:58:00+00:00"
+    },
+    "airline": {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "icao": "ETD"
+    },
+    "flight": {
+      "number": "4205",
+      "iata": "EY4205",
+      "icao": "ETD4205",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "438",
+        "flight_iata": "at438",
+        "flight_icao": "ram438"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "020142"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Agadir Almassira",
+      "timezone": "Africa/Casablanca",
+      "iata": "AGA",
+      "icao": "GMAD",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T18:10:00+00:00",
+      "estimated": "2026-03-12T18:10:00+00:00",
+      "actual": "2026-03-12T17:56:00+00:00",
+      "estimated_runway": "2026-03-12T17:56:00+00:00",
+      "actual_runway": "2026-03-12T17:56:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T19:35:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T18:57:00+00:00",
+      "actual": "2026-03-12T18:58:00+00:00",
+      "estimated_runway": "2026-03-12T18:58:00+00:00",
+      "actual_runway": "2026-03-12T18:58:00+00:00"
+    },
+    "airline": {
+      "name": "Alitalia",
+      "iata": "AZ",
+      "icao": "AZA"
+    },
+    "flight": {
+      "number": "6133",
+      "iata": "AZ6133",
+      "icao": "AZA6133",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "438",
+        "flight_iata": "at438",
+        "flight_icao": "ram438"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "020142"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Barajas",
+      "timezone": "Europe/Madrid",
+      "iata": "MAD",
+      "icao": "LEMD",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T17:40:00+00:00",
+      "estimated": "2026-03-12T17:40:00+00:00",
+      "actual": "2026-03-12T17:49:00+00:00",
+      "estimated_runway": "2026-03-12T17:49:00+00:00",
+      "actual_runway": "2026-03-12T17:49:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T18:30:00+00:00",
+      "delay": 10,
+      "estimated": "2026-03-12T18:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air Arabia",
+      "iata": "G9",
+      "icao": "ABY"
+    },
+    "flight": {
+      "number": "394",
+      "iata": "G9394",
+      "icao": "ABY394",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "020140"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Valencia",
+      "timezone": "Europe/Madrid",
+      "iata": "VLC",
+      "icao": "LEVC",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T19:25:00+00:00",
+      "estimated": "2026-03-12T19:25:00+00:00",
+      "actual": "2026-03-12T19:32:00+00:00",
+      "estimated_runway": "2026-03-12T19:32:00+00:00",
+      "actual_runway": "2026-03-12T19:32:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:05:00+00:00",
+      "delay": 8,
+      "estimated": "2026-03-12T19:56:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "969",
+      "iata": "AT969",
+      "icao": "RAM969",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "020113"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Valencia",
+      "timezone": "Europe/Madrid",
+      "iata": "VLC",
+      "icao": "LEVC",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T19:25:00+00:00",
+      "estimated": "2026-03-12T19:25:00+00:00",
+      "actual": "2026-03-12T19:32:00+00:00",
+      "estimated_runway": "2026-03-12T19:32:00+00:00",
+      "actual_runway": "2026-03-12T19:32:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:05:00+00:00",
+      "delay": 8,
+      "estimated": "2026-03-12T19:56:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iberia",
+      "iata": "IB",
+      "icao": "IBE"
+    },
+    "flight": {
+      "number": "7610",
+      "iata": "IB7610",
+      "icao": "IBE7610",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "969",
+        "flight_iata": "at969",
+        "flight_icao": "ram969"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "020113"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Marco Polo",
+      "timezone": "Europe/Rome",
+      "iata": "VCE",
+      "icao": "LIPZ",
+      "terminal": null,
+      "gate": null,
+      "delay": 31,
+      "scheduled": "2026-03-12T19:45:00+00:00",
+      "estimated": "2026-03-12T19:45:00+00:00",
+      "actual": "2026-03-12T20:46:00+00:00",
+      "estimated_runway": "2026-03-12T20:46:00+00:00",
+      "actual_runway": "2026-03-12T20:46:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T22:10:00+00:00",
+      "delay": 31,
+      "estimated": "2026-03-12T22:41:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air Arabia",
+      "iata": "G9",
+      "icao": "ABY"
+    },
+    "flight": {
+      "number": "472",
+      "iata": "G9472",
+      "icao": "ABY472",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "02010D"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Felix Houphouet Boigny",
+      "timezone": "Africa/Abidjan",
+      "iata": "ABJ",
+      "icao": "DIAP",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T18:40:00+00:00",
+      "estimated": "2026-03-12T18:40:00+00:00",
+      "actual": "2026-03-12T18:29:00+00:00",
+      "estimated_runway": "2026-03-12T18:29:00+00:00",
+      "actual_runway": "2026-03-12T18:29:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T23:05:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T22:24:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "534",
+      "iata": "AT534",
+      "icao": "RAM534",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "CN-RGH",
+      "iata": "B738",
+      "icao": "B738",
+      "icao24": "0200ED"
+    },
+    "live": {
+      "updated": "2026-03-12T20:45:15+00:00",
+      "latitude": 21.0096,
+      "longitude": -7.7402,
+      "altitude": 10363.2,
+      "direction": 0,
+      "speed_horizontal": 801.916,
+      "speed_vertical": 0,
+      "is_ground": false
+    }
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Felix Houphouet Boigny",
+      "timezone": "Africa/Abidjan",
+      "iata": "ABJ",
+      "icao": "DIAP",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T18:40:00+00:00",
+      "estimated": "2026-03-12T18:40:00+00:00",
+      "actual": "2026-03-12T18:29:00+00:00",
+      "estimated_runway": "2026-03-12T18:29:00+00:00",
+      "actual_runway": "2026-03-12T18:29:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T23:05:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T22:24:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iberia",
+      "iata": "IB",
+      "icao": "IBE"
+    },
+    "flight": {
+      "number": "7663",
+      "iata": "IB7663",
+      "icao": "IBE7663",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "534",
+        "flight_iata": "at534",
+        "flight_icao": "ram534"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200ED"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Felix Houphouet Boigny",
+      "timezone": "Africa/Abidjan",
+      "iata": "ABJ",
+      "icao": "DIAP",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T18:40:00+00:00",
+      "estimated": "2026-03-12T18:40:00+00:00",
+      "actual": "2026-03-12T18:29:00+00:00",
+      "estimated_runway": "2026-03-12T18:29:00+00:00",
+      "actual_runway": "2026-03-12T18:29:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T23:05:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T22:24:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "icao": "ETD"
+    },
+    "flight": {
+      "number": "4227",
+      "iata": "EY4227",
+      "icao": "ETD4227",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "534",
+        "flight_iata": "at534",
+        "flight_icao": "ram534"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200ED"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Felix Houphouet Boigny",
+      "timezone": "Africa/Abidjan",
+      "iata": "ABJ",
+      "icao": "DIAP",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T18:40:00+00:00",
+      "estimated": "2026-03-12T18:40:00+00:00",
+      "actual": "2026-03-12T18:29:00+00:00",
+      "estimated_runway": "2026-03-12T18:29:00+00:00",
+      "actual_runway": "2026-03-12T18:29:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T23:05:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T22:24:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Alitalia",
+      "iata": "AZ",
+      "icao": "AZA"
+    },
+    "flight": {
+      "number": "6149",
+      "iata": "AZ6149",
+      "icao": "AZA6149",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "534",
+        "flight_iata": "at534",
+        "flight_icao": "ram534"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200ED"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Felix Houphouet Boigny",
+      "timezone": "Africa/Abidjan",
+      "iata": "ABJ",
+      "icao": "DIAP",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T18:40:00+00:00",
+      "estimated": "2026-03-12T18:40:00+00:00",
+      "actual": "2026-03-12T18:29:00+00:00",
+      "estimated_runway": "2026-03-12T18:29:00+00:00",
+      "actual_runway": "2026-03-12T18:29:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T23:05:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T22:24:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "American Airlines",
+      "iata": "AA",
+      "icao": "AAL"
+    },
+    "flight": {
+      "number": "7960",
+      "iata": "AA7960",
+      "icao": "AAL7960",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "534",
+        "flight_iata": "at534",
+        "flight_icao": "ram534"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200ED"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Charles De Gaulle",
+      "timezone": "Europe/Paris",
+      "iata": "CDG",
+      "icao": "LFPG",
+      "terminal": "2F",
+      "gate": "F05",
+      "delay": 4,
+      "scheduled": "2026-03-12T15:30:00+00:00",
+      "estimated": "2026-03-12T15:30:00+00:00",
+      "actual": "2026-03-12T15:50:00+00:00",
+      "estimated_runway": "2026-03-12T15:50:00+00:00",
+      "actual_runway": "2026-03-12T15:50:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T17:35:00+00:00",
+      "delay": 4,
+      "estimated": "2026-03-12T17:38:00+00:00",
+      "actual": "2026-03-12T17:39:00+00:00",
+      "estimated_runway": "2026-03-12T17:39:00+00:00",
+      "actual_runway": "2026-03-12T17:39:00+00:00"
+    },
+    "airline": {
+      "name": "KLM",
+      "iata": "KL",
+      "icao": "KLM"
+    },
+    "flight": {
+      "number": "2042",
+      "iata": "KL2042",
+      "icao": "KLM2042",
+      "codeshared": {
+        "airline_name": "air france",
+        "airline_iata": "af",
+        "airline_icao": "afr",
+        "flight_number": "1196",
+        "flight_iata": "af1196",
+        "flight_icao": "afr1196"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "39BDA0"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Charles De Gaulle",
+      "timezone": "Europe/Paris",
+      "iata": "CDG",
+      "icao": "LFPG",
+      "terminal": "2F",
+      "gate": "F05",
+      "delay": 4,
+      "scheduled": "2026-03-12T15:30:00+00:00",
+      "estimated": "2026-03-12T15:30:00+00:00",
+      "actual": "2026-03-12T15:50:00+00:00",
+      "estimated_runway": "2026-03-12T15:50:00+00:00",
+      "actual_runway": "2026-03-12T15:50:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T17:35:00+00:00",
+      "delay": 4,
+      "estimated": "2026-03-12T17:38:00+00:00",
+      "actual": "2026-03-12T17:39:00+00:00",
+      "estimated_runway": "2026-03-12T17:39:00+00:00",
+      "actual_runway": "2026-03-12T17:39:00+00:00"
+    },
+    "airline": {
+      "name": "Delta Air Lines",
+      "iata": "DL",
+      "icao": "DAL"
+    },
+    "flight": {
+      "number": "8223",
+      "iata": "DL8223",
+      "icao": "DAL8223",
+      "codeshared": {
+        "airline_name": "air france",
+        "airline_iata": "af",
+        "airline_icao": "afr",
+        "flight_number": "1196",
+        "flight_iata": "af1196",
+        "flight_icao": "afr1196"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "39BDA0"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Barajas",
+      "timezone": "Europe/Madrid",
+      "iata": "MAD",
+      "icao": "LEMD",
+      "terminal": "4S",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T16:25:00+00:00",
+      "estimated": "2026-03-12T16:25:00+00:00",
+      "actual": "2026-03-12T16:39:00+00:00",
+      "estimated_runway": "2026-03-12T16:39:00+00:00",
+      "actual_runway": "2026-03-12T16:39:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T17:20:00+00:00",
+      "delay": 15,
+      "estimated": "2026-03-12T17:04:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR"
+    },
+    "flight": {
+      "number": "5073",
+      "iata": "QR5073",
+      "icao": "QTR5073",
+      "codeshared": {
+        "airline_name": "iberia",
+        "airline_iata": "ib",
+        "airline_icao": "ibe",
+        "flight_number": "1357",
+        "flight_iata": "ib1357",
+        "flight_icao": "ibe1357"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "345543"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Barajas",
+      "timezone": "Europe/Madrid",
+      "iata": "MAD",
+      "icao": "LEMD",
+      "terminal": "4S",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T16:25:00+00:00",
+      "estimated": "2026-03-12T16:25:00+00:00",
+      "actual": "2026-03-12T16:39:00+00:00",
+      "estimated_runway": "2026-03-12T16:39:00+00:00",
+      "actual_runway": "2026-03-12T16:39:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T17:20:00+00:00",
+      "delay": 15,
+      "estimated": "2026-03-12T17:04:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "British Airways",
+      "iata": "BA",
+      "icao": "BAW"
+    },
+    "flight": {
+      "number": "7262",
+      "iata": "BA7262",
+      "icao": "BAW7262",
+      "codeshared": {
+        "airline_name": "iberia",
+        "airline_iata": "ib",
+        "airline_icao": "ibe",
+        "flight_number": "1357",
+        "flight_iata": "ib1357",
+        "flight_icao": "ibe1357"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "345543"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Barajas",
+      "timezone": "Europe/Madrid",
+      "iata": "MAD",
+      "icao": "LEMD",
+      "terminal": "4S",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T16:25:00+00:00",
+      "estimated": "2026-03-12T16:25:00+00:00",
+      "actual": "2026-03-12T16:39:00+00:00",
+      "estimated_runway": "2026-03-12T16:39:00+00:00",
+      "actual_runway": "2026-03-12T16:39:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T17:20:00+00:00",
+      "delay": 15,
+      "estimated": "2026-03-12T17:04:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "5302",
+      "iata": "AT5302",
+      "icao": "RAM5302",
+      "codeshared": {
+        "airline_name": "iberia",
+        "airline_iata": "ib",
+        "airline_icao": "ibe",
+        "flight_number": "1357",
+        "flight_iata": "ib1357",
+        "flight_icao": "ibe1357"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "345543"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Barajas",
+      "timezone": "Europe/Madrid",
+      "iata": "MAD",
+      "icao": "LEMD",
+      "terminal": "4S",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T16:25:00+00:00",
+      "estimated": "2026-03-12T16:25:00+00:00",
+      "actual": "2026-03-12T16:39:00+00:00",
+      "estimated_runway": "2026-03-12T16:39:00+00:00",
+      "actual_runway": "2026-03-12T16:39:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T17:20:00+00:00",
+      "delay": 15,
+      "estimated": "2026-03-12T17:04:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "American Airlines",
+      "iata": "AA",
+      "icao": "AAL"
+    },
+    "flight": {
+      "number": "8795",
+      "iata": "AA8795",
+      "icao": "AAL8795",
+      "codeshared": {
+        "airline_name": "iberia",
+        "airline_iata": "ib",
+        "airline_icao": "ibe",
+        "flight_number": "1357",
+        "flight_iata": "ib1357",
+        "flight_icao": "ibe1357"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "345543"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Pablo Ruiz Picasso",
+      "timezone": "Europe/Madrid",
+      "iata": "AGP",
+      "icao": "LEMG",
+      "terminal": null,
+      "gate": "328",
+      "delay": null,
+      "scheduled": "2026-03-12T19:00:00+00:00",
+      "estimated": "2026-03-12T19:00:00+00:00",
+      "actual": "2026-03-12T19:14:00+00:00",
+      "estimated_runway": "2026-03-12T19:14:00+00:00",
+      "actual_runway": "2026-03-12T19:14:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T19:15:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T19:01:00+00:00",
+      "actual": "2026-03-12T19:02:00+00:00",
+      "estimated_runway": "2026-03-12T19:02:00+00:00",
+      "actual_runway": "2026-03-12T19:02:00+00:00"
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "985",
+      "iata": "AT985",
+      "icao": "RAM985",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "02005B"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Pablo Ruiz Picasso",
+      "timezone": "Europe/Madrid",
+      "iata": "AGP",
+      "icao": "LEMG",
+      "terminal": null,
+      "gate": "328",
+      "delay": null,
+      "scheduled": "2026-03-12T19:00:00+00:00",
+      "estimated": "2026-03-12T19:00:00+00:00",
+      "actual": "2026-03-12T19:14:00+00:00",
+      "estimated_runway": "2026-03-12T19:14:00+00:00",
+      "actual_runway": "2026-03-12T19:14:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T19:15:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T19:01:00+00:00",
+      "actual": "2026-03-12T19:02:00+00:00",
+      "estimated_runway": "2026-03-12T19:02:00+00:00",
+      "actual_runway": "2026-03-12T19:02:00+00:00"
+    },
+    "airline": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR"
+    },
+    "flight": {
+      "number": "4584",
+      "iata": "QR4584",
+      "icao": "QTR4584",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "985",
+        "flight_iata": "at985",
+        "flight_icao": "ram985"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "02005B"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Pablo Ruiz Picasso",
+      "timezone": "Europe/Madrid",
+      "iata": "AGP",
+      "icao": "LEMG",
+      "terminal": null,
+      "gate": "328",
+      "delay": null,
+      "scheduled": "2026-03-12T19:00:00+00:00",
+      "estimated": "2026-03-12T19:00:00+00:00",
+      "actual": "2026-03-12T19:14:00+00:00",
+      "estimated_runway": "2026-03-12T19:14:00+00:00",
+      "actual_runway": "2026-03-12T19:14:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T19:15:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T19:01:00+00:00",
+      "actual": "2026-03-12T19:02:00+00:00",
+      "estimated_runway": "2026-03-12T19:02:00+00:00",
+      "actual_runway": "2026-03-12T19:02:00+00:00"
+    },
+    "airline": {
+      "name": "Iberia",
+      "iata": "IB",
+      "icao": "IBE"
+    },
+    "flight": {
+      "number": "7613",
+      "iata": "IB7613",
+      "icao": "IBE7613",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "985",
+        "flight_iata": "at985",
+        "flight_icao": "ram985"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "02005B"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Cairo International Airport",
+      "timezone": "Africa/Cairo",
+      "iata": "CAI",
+      "icao": "HECA",
+      "terminal": "2",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T19:35:00+00:00",
+      "estimated": "2026-03-12T19:35:00+00:00",
+      "actual": "2026-03-12T19:52:00+00:00",
+      "estimated_runway": "2026-03-12T19:52:00+00:00",
+      "actual_runway": "2026-03-12T19:52:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T23:30:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T23:13:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "271",
+      "iata": "AT271",
+      "icao": "RAM271",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "CN-ROH",
+      "iata": "B738",
+      "icao": "B738",
+      "icao24": "02006F"
+    },
+    "live": {
+      "updated": "2026-03-12T20:45:14+00:00",
+      "latitude": 39.1023,
+      "longitude": 10.9683,
+      "altitude": 10980.4,
+      "direction": 280,
+      "speed_horizontal": 801.916,
+      "speed_vertical": 0,
+      "is_ground": false
+    }
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Menara",
+      "timezone": "Africa/Casablanca",
+      "iata": "RAK",
+      "icao": "GMMX",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T17:50:00+00:00",
+      "estimated": "2026-03-12T17:50:00+00:00",
+      "actual": "2026-03-12T17:47:00+00:00",
+      "estimated_runway": "2026-03-12T17:47:00+00:00",
+      "actual_runway": "2026-03-12T17:47:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T18:50:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T18:10:00+00:00",
+      "actual": "2026-03-12T18:13:00+00:00",
+      "estimated_runway": "2026-03-12T18:13:00+00:00",
+      "actual_runway": "2026-03-12T18:13:00+00:00"
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "412",
+      "iata": "AT412",
+      "icao": "RAM412",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0201C5"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Menara",
+      "timezone": "Africa/Casablanca",
+      "iata": "RAK",
+      "icao": "GMMX",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T17:50:00+00:00",
+      "estimated": "2026-03-12T17:50:00+00:00",
+      "actual": "2026-03-12T17:47:00+00:00",
+      "estimated_runway": "2026-03-12T17:47:00+00:00",
+      "actual_runway": "2026-03-12T17:47:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T18:50:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T18:10:00+00:00",
+      "actual": "2026-03-12T18:13:00+00:00",
+      "estimated_runway": "2026-03-12T18:13:00+00:00",
+      "actual_runway": "2026-03-12T18:13:00+00:00"
+    },
+    "airline": {
+      "name": "Kenya Airways",
+      "iata": "KQ",
+      "icao": "KQA"
+    },
+    "flight": {
+      "number": "6104",
+      "iata": "KQ6104",
+      "icao": "KQA6104",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "412",
+        "flight_iata": "at412",
+        "flight_icao": "ram412"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0201C5"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Menara",
+      "timezone": "Africa/Casablanca",
+      "iata": "RAK",
+      "icao": "GMMX",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T17:50:00+00:00",
+      "estimated": "2026-03-12T17:50:00+00:00",
+      "actual": "2026-03-12T17:47:00+00:00",
+      "estimated_runway": "2026-03-12T17:47:00+00:00",
+      "actual_runway": "2026-03-12T17:47:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T18:50:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T18:10:00+00:00",
+      "actual": "2026-03-12T18:13:00+00:00",
+      "estimated_runway": "2026-03-12T18:13:00+00:00",
+      "actual_runway": "2026-03-12T18:13:00+00:00"
+    },
+    "airline": {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "icao": "ETD"
+    },
+    "flight": {
+      "number": "4223",
+      "iata": "EY4223",
+      "icao": "ETD4223",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "412",
+        "flight_iata": "at412",
+        "flight_icao": "ram412"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0201C5"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Gran Canaria",
+      "timezone": "Atlantic/Canary",
+      "iata": "LPA",
+      "icao": "GCLP",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T18:00:00+00:00",
+      "estimated": "2026-03-12T18:00:00+00:00",
+      "actual": "2026-03-12T17:51:00+00:00",
+      "estimated_runway": "2026-03-12T17:51:00+00:00",
+      "actual_runway": "2026-03-12T17:51:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:40:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T19:54:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "977",
+      "iata": "AT977",
+      "icao": "RAM977",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200F2"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": null,
+    "departure": {
+      "airport": "Lisbon Portela",
+      "timezone": "Europe/Lisbon",
+      "iata": "LIS",
+      "icao": "LPPT",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T17:55:00+00:00",
+      "estimated": "2026-03-12T17:55:00+00:00",
+      "actual": "2026-03-12T18:12:00+00:00",
+      "estimated_runway": "2026-03-12T18:12:00+00:00",
+      "actual_runway": "2026-03-12T18:12:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T19:20:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T19:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "983",
+      "iata": "AT983",
+      "icao": "RAM983",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0201C1"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Charles De Gaulle",
+      "timezone": "Europe/Paris",
+      "iata": "CDG",
+      "icao": "LFPG",
+      "terminal": "2F",
+      "gate": "F05",
+      "delay": 27,
+      "scheduled": "2026-03-12T18:15:00+00:00",
+      "estimated": "2026-03-12T18:15:00+00:00",
+      "actual": "2026-03-12T19:10:00+00:00",
+      "estimated_runway": "2026-03-12T19:10:00+00:00",
+      "actual_runway": "2026-03-12T19:10:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:25:00+00:00",
+      "delay": 27,
+      "estimated": "2026-03-12T20:52:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air France",
+      "iata": "AF",
+      "icao": "AFR"
+    },
+    "flight": {
+      "number": "1496",
+      "iata": "AF1496",
+      "icao": "AFR1496",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "F-GKXO",
+      "iata": "A320",
+      "icao": "A320",
+      "icao24": "392AEE"
+    },
+    "live": {
+      "updated": "2026-03-12T20:42:55+00:00",
+      "latitude": 33.0255,
+      "longitude": -7.4693,
+      "altitude": 1767.84,
+      "direction": 321,
+      "speed_horizontal": 485.224,
+      "speed_vertical": 0,
+      "is_ground": false
+    }
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Carthage",
+      "timezone": "Africa/Tunis",
+      "iata": "TUN",
+      "icao": "DTTA",
+      "terminal": "M",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T18:20:00+00:00",
+      "estimated": "2026-03-12T18:20:00+00:00",
+      "actual": "2026-03-12T18:25:00+00:00",
+      "estimated_runway": "2026-03-12T18:25:00+00:00",
+      "actual_runway": "2026-03-12T18:25:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:30:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T20:08:00+00:00",
+      "actual": "2026-03-12T20:09:00+00:00",
+      "estimated_runway": "2026-03-12T20:09:00+00:00",
+      "actual_runway": "2026-03-12T20:09:00+00:00"
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "573",
+      "iata": "AT573",
+      "icao": "RAM573",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "02008B"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "M\u00e9rignac",
+      "timezone": "Europe/Paris",
+      "iata": "BOD",
+      "icao": "LFBD",
+      "terminal": "A",
+      "gate": "A",
+      "delay": 6,
+      "scheduled": "2026-03-12T19:05:00+00:00",
+      "estimated": "2026-03-12T19:05:00+00:00",
+      "actual": "2026-03-12T19:28:00+00:00",
+      "estimated_runway": "2026-03-12T19:28:00+00:00",
+      "actual_runway": "2026-03-12T19:28:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:20:00+00:00",
+      "delay": 23,
+      "estimated": "2026-03-12T20:26:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "799",
+      "iata": "AT799",
+      "icao": "RAM799",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "CN-RNZ",
+      "iata": "B738",
+      "icao": "B738",
+      "icao24": "020057"
+    },
+    "live": {
+      "updated": "2026-03-12T20:25:49+00:00",
+      "latitude": 33.1955,
+      "longitude": -7.5238,
+      "altitude": 1036.32,
+      "direction": 300,
+      "speed_horizontal": 374.104,
+      "speed_vertical": 0,
+      "is_ground": false
+    }
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Sabiha Gokcen",
+      "timezone": "Europe/Istanbul",
+      "iata": "SAW",
+      "icao": "LTFJ",
+      "terminal": null,
+      "gate": "203A",
+      "delay": null,
+      "scheduled": "2026-03-12T20:45:00+00:00",
+      "estimated": "2026-03-12T20:45:00+00:00",
+      "actual": "2026-03-12T21:07:00+00:00",
+      "estimated_runway": "2026-03-12T21:07:00+00:00",
+      "actual_runway": "2026-03-12T21:07:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T23:05:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T22:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Pegasus",
+      "iata": "PC",
+      "icao": "PGT"
+    },
+    "flight": {
+      "number": "651",
+      "iata": "PC651",
+      "icao": "PGT651",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "TC-RFS",
+      "iata": "A21N",
+      "icao": "A21N",
+      "icao24": "4BC8D3"
+    },
+    "live": {
+      "updated": "2026-03-12T20:45:10+00:00",
+      "latitude": 36.4265,
+      "longitude": 6.7304,
+      "altitude": 10348,
+      "direction": 270,
+      "speed_horizontal": 755.616,
+      "speed_vertical": 0,
+      "is_ground": false
+    }
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Orly",
+      "timezone": "Europe/Paris",
+      "iata": "ORY",
+      "icao": "LFPO",
+      "terminal": "4",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T18:20:00+00:00",
+      "estimated": "2026-03-12T18:20:00+00:00",
+      "actual": "2026-03-12T18:33:00+00:00",
+      "estimated_runway": "2026-03-12T18:33:00+00:00",
+      "actual_runway": "2026-03-12T18:33:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:25:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T20:01:00+00:00",
+      "actual": "2026-03-12T20:02:00+00:00",
+      "estimated_runway": "2026-03-12T20:02:00+00:00",
+      "actual_runway": "2026-03-12T20:02:00+00:00"
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "771",
+      "iata": "AT771",
+      "icao": "RAM771",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0201C4"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Barajas",
+      "timezone": "Europe/Madrid",
+      "iata": "MAD",
+      "icao": "LEMD",
+      "terminal": "4S",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T19:05:00+00:00",
+      "estimated": "2026-03-12T19:05:00+00:00",
+      "actual": "2026-03-12T19:16:00+00:00",
+      "estimated_runway": "2026-03-12T19:16:00+00:00",
+      "actual_runway": "2026-03-12T19:16:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T19:50:00+00:00",
+      "delay": 11,
+      "estimated": "2026-03-12T19:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "971",
+      "iata": "AT971",
+      "icao": "RAM971",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0201C3"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "St-Exup\u00e9ry",
+      "timezone": "Europe/Paris",
+      "iata": "LYS",
+      "icao": "LFLL",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T18:35:00+00:00",
+      "estimated": "2026-03-12T18:35:00+00:00",
+      "actual": "2026-03-12T18:48:00+00:00",
+      "estimated_runway": "2026-03-12T18:48:00+00:00",
+      "actual_runway": "2026-03-12T18:48:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:25:00+00:00",
+      "delay": 13,
+      "estimated": "2026-03-12T20:16:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "721",
+      "iata": "AT721",
+      "icao": "RAM721",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "CN-MAX",
+      "iata": "B38M",
+      "icao": "B38M",
+      "icao24": "020139"
+    },
+    "live": {
+      "updated": "2026-03-12T20:25:50+00:00",
+      "latitude": 33.2938,
+      "longitude": -7.5669,
+      "altitude": 495.3,
+      "direction": 343,
+      "speed_horizontal": 266.688,
+      "speed_vertical": 0,
+      "is_ground": false
+    }
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "St-Exup\u00e9ry",
+      "timezone": "Europe/Paris",
+      "iata": "LYS",
+      "icao": "LFLL",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T18:35:00+00:00",
+      "estimated": "2026-03-12T18:35:00+00:00",
+      "actual": "2026-03-12T18:48:00+00:00",
+      "estimated_runway": "2026-03-12T18:48:00+00:00",
+      "actual_runway": "2026-03-12T18:48:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:25:00+00:00",
+      "delay": 13,
+      "estimated": "2026-03-12T20:16:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air Senegal",
+      "iata": "HC",
+      "icao": "SZN"
+    },
+    "flight": {
+      "number": "5004",
+      "iata": "HC5004",
+      "icao": "SZN5004",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "721",
+        "flight_iata": "at721",
+        "flight_icao": "ram721"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "020139"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Heathrow",
+      "timezone": "Europe/London",
+      "iata": "LHR",
+      "icao": "EGLL",
+      "terminal": "4",
+      "gate": "E",
+      "delay": 15,
+      "scheduled": "2026-03-12T17:10:00+00:00",
+      "estimated": "2026-03-12T17:10:00+00:00",
+      "actual": "2026-03-12T17:51:00+00:00",
+      "estimated_runway": "2026-03-12T17:51:00+00:00",
+      "actual_runway": "2026-03-12T17:51:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:30:00+00:00",
+      "delay": 42,
+      "estimated": "2026-03-12T20:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "801",
+      "iata": "AT801",
+      "icao": "RAM801",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "CN-RHC",
+      "iata": "B38M",
+      "icao": "B38M",
+      "icao24": "0201A1"
+    },
+    "live": {
+      "updated": "2026-03-12T20:38:59+00:00",
+      "latitude": 33.3208,
+      "longitude": -7.5761,
+      "altitude": 327.66,
+      "direction": 344,
+      "speed_horizontal": 262.984,
+      "speed_vertical": 0,
+      "is_ground": false
+    }
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Heydar Aliyev International (Bina International)",
+      "timezone": "Asia/Baku",
+      "iata": "GYD",
+      "icao": "UBBB",
+      "terminal": null,
+      "gate": null,
+      "delay": 50,
+      "scheduled": "2026-03-12T16:25:00+00:00",
+      "estimated": "2026-03-12T16:25:00+00:00",
+      "actual": "2026-03-12T17:14:00+00:00",
+      "estimated_runway": "2026-03-12T17:14:00+00:00",
+      "actual_runway": "2026-03-12T17:14:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T18:51:00+00:00",
+      "delay": 49,
+      "estimated": "2026-03-12T19:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Silk Way West",
+      "iata": "7L",
+      "icao": "AZG"
+    },
+    "flight": {
+      "number": "1513",
+      "iata": "7L1513",
+      "icao": "AZG1513",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "600B21"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Barajas",
+      "timezone": "Europe/Madrid",
+      "iata": "MAD",
+      "icao": "LEMD",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T17:40:00+00:00",
+      "estimated": "2026-03-12T17:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T18:30:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air Arabia Maroc",
+      "iata": "3O",
+      "icao": "MAC"
+    },
+    "flight": {
+      "number": "394",
+      "iata": "3O394",
+      "icao": "MAC394",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "CN-NMN",
+      "iata": "A320",
+      "icao": "A320",
+      "icao24": "020140"
+    },
+    "live": {
+      "updated": "2026-03-12T18:15:48+00:00",
+      "latitude": 33.3223,
+      "longitude": -7.5766,
+      "altitude": 327.66,
+      "direction": 343,
+      "speed_horizontal": 240.76,
+      "speed_vertical": 0,
+      "is_ground": false
+    }
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Nouakchott",
+      "timezone": "Africa/Nouakchott",
+      "iata": "NKC",
+      "icao": "GQNO",
+      "terminal": null,
+      "gate": null,
+      "delay": 4,
+      "scheduled": "2026-03-12T17:00:00+00:00",
+      "estimated": "2026-03-12T17:00:00+00:00",
+      "actual": "2026-03-12T17:11:00+00:00",
+      "estimated_runway": "2026-03-12T17:11:00+00:00",
+      "actual_runway": "2026-03-12T17:11:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T19:40:00+00:00",
+      "delay": 12,
+      "estimated": "2026-03-12T19:44:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Mauritania Airlines International",
+      "iata": "L6",
+      "icao": "MAI"
+    },
+    "flight": {
+      "number": "114",
+      "iata": "L6114",
+      "icao": "MAI114",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "05E054"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Nouakchott",
+      "timezone": "Africa/Nouakchott",
+      "iata": "NKC",
+      "icao": "GQNO",
+      "terminal": null,
+      "gate": null,
+      "delay": 4,
+      "scheduled": "2026-03-12T17:00:00+00:00",
+      "estimated": "2026-03-12T17:00:00+00:00",
+      "actual": "2026-03-12T17:11:00+00:00",
+      "estimated_runway": "2026-03-12T17:11:00+00:00",
+      "actual_runway": "2026-03-12T17:11:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T19:40:00+00:00",
+      "delay": 12,
+      "estimated": "2026-03-12T19:44:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "9021",
+      "iata": "AT9021",
+      "icao": "RAM9021",
+      "codeshared": {
+        "airline_name": "mauritania airlines international",
+        "airline_iata": "l6",
+        "airline_icao": "mai",
+        "flight_number": "114",
+        "flight_iata": "l6114",
+        "flight_icao": "mai114"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "05E054"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Schiphol",
+      "timezone": "Europe/Amsterdam",
+      "iata": "AMS",
+      "icao": "EHAM",
+      "terminal": null,
+      "gate": "30",
+      "delay": 5,
+      "scheduled": "2026-03-12T17:15:00+00:00",
+      "estimated": "2026-03-12T17:15:00+00:00",
+      "actual": "2026-03-12T17:52:00+00:00",
+      "estimated_runway": "2026-03-12T17:52:00+00:00",
+      "actual_runway": "2026-03-12T17:52:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T19:45:00+00:00",
+      "delay": 5,
+      "estimated": "2026-03-12T19:50:00+00:00",
+      "actual": "2026-03-12T19:50:00+00:00",
+      "estimated_runway": "2026-03-12T19:50:00+00:00",
+      "actual_runway": "2026-03-12T19:50:00+00:00"
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "851",
+      "iata": "AT851",
+      "icao": "RAM851",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "020095"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Frankfurt International Airport",
+      "timezone": "Europe/Berlin",
+      "iata": "FRA",
+      "icao": "EDDF",
+      "terminal": "2",
+      "gate": "850",
+      "delay": null,
+      "scheduled": "2026-03-12T17:35:00+00:00",
+      "estimated": "2026-03-12T17:35:00+00:00",
+      "actual": "2026-03-12T17:57:00+00:00",
+      "estimated_runway": "2026-03-12T17:57:00+00:00",
+      "actual_runway": "2026-03-12T17:57:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T20:10:00+00:00",
+      "delay": 23,
+      "estimated": "2026-03-12T20:01:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "811",
+      "iata": "AT811",
+      "icao": "RAM811",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "02006E"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Gatwick",
+      "timezone": "Europe/London",
+      "iata": "LGW",
+      "icao": "EGKK",
+      "terminal": "N",
+      "gate": "50",
+      "delay": null,
+      "scheduled": "2026-03-12T16:10:00+00:00",
+      "estimated": "2026-03-12T16:10:00+00:00",
+      "actual": "2026-03-12T16:25:00+00:00",
+      "estimated_runway": "2026-03-12T16:25:00+00:00",
+      "actual_runway": "2026-03-12T16:25:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T19:25:00+00:00",
+      "delay": 15,
+      "estimated": "2026-03-12T19:16:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "803",
+      "iata": "AT803",
+      "icao": "RAM803",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "020092"
+    },
+    "live": null
+  }
+]

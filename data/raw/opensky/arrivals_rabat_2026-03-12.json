@@ -1,0 +1,58 @@
+[
+  {
+    "icao24": "020140",
+    "firstSeen": 1773334225,
+    "estDepartureAirport": "LEMD",
+    "lastSeen": 1773337881,
+    "estArrivalAirport": "GMME",
+    "callsign": "MAC394B ",
+    "estDepartureAirportHorizDistance": 2153,
+    "estDepartureAirportVertDistance": 267,
+    "estArrivalAirportHorizDistance": 23208,
+    "estArrivalAirportVertDistance": 6110,
+    "departureAirportCandidatesCount": 30,
+    "arrivalAirportCandidatesCount": 0
+  },
+  {
+    "icao24": "020140",
+    "firstSeen": 1773310677,
+    "estDepartureAirport": "LIPE",
+    "lastSeen": 1773319422,
+    "estArrivalAirport": "GMME",
+    "callsign": "MAC468  ",
+    "estDepartureAirportHorizDistance": 1687,
+    "estDepartureAirportVertDistance": 175,
+    "estArrivalAirportHorizDistance": 21082,
+    "estArrivalAirportVertDistance": 5249,
+    "departureAirportCandidatesCount": 46,
+    "arrivalAirportCandidatesCount": 0
+  },
+  {
+    "icao24": "343694",
+    "firstSeen": 1773312664,
+    "estDepartureAirport": "LEMD",
+    "lastSeen": 1773316468,
+    "estArrivalAirport": "GMME",
+    "callsign": "ANE1355 ",
+    "estDepartureAirportHorizDistance": 6436,
+    "estDepartureAirportVertDistance": 84,
+    "estArrivalAirportHorizDistance": 17812,
+    "estArrivalAirportVertDistance": 6933,
+    "departureAirportCandidatesCount": 28,
+    "arrivalAirportCandidatesCount": 0
+  },
+  {
+    "icao24": "39bda3",
+    "firstSeen": 1773297031,
+    "estDepartureAirport": "LFPG",
+    "lastSeen": 1773305198,
+    "estArrivalAirport": "GMME",
+    "callsign": "AFR15ZK ",
+    "estDepartureAirportHorizDistance": 1997,
+    "estDepartureAirportVertDistance": 109,
+    "estArrivalAirportHorizDistance": 26673,
+    "estArrivalAirportVertDistance": 5950,
+    "departureAirportCandidatesCount": 91,
+    "arrivalAirportCandidatesCount": 0
+  }
+]

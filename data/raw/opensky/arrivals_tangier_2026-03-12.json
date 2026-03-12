@@ -1,0 +1,58 @@
+[
+  {
+    "icao24": "020093",
+    "firstSeen": 1773262689,
+    "estDepartureAirport": null,
+    "lastSeen": 1773264451,
+    "estArrivalAirport": "GMTT",
+    "callsign": "CNRBS   ",
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "estArrivalAirportHorizDistance": 5577,
+    "estArrivalAirportVertDistance": 80,
+    "departureAirportCandidatesCount": 0,
+    "arrivalAirportCandidatesCount": 0
+  },
+  {
+    "icao24": "4ca8d5",
+    "firstSeen": 1773254180,
+    "estDepartureAirport": "EHEH",
+    "lastSeen": 1773263323,
+    "estArrivalAirport": "GMTT",
+    "callsign": "RYR86ZF ",
+    "estDepartureAirportHorizDistance": 1122,
+    "estDepartureAirportVertDistance": 91,
+    "estArrivalAirportHorizDistance": 5661,
+    "estArrivalAirportVertDistance": 95,
+    "departureAirportCandidatesCount": 0,
+    "arrivalAirportCandidatesCount": 0
+  },
+  {
+    "icao24": "02019d",
+    "firstSeen": 1773259848,
+    "estDepartureAirport": "LEMD",
+    "lastSeen": 1773263131,
+    "estArrivalAirport": "GMTT",
+    "callsign": "MAC392B ",
+    "estDepartureAirportHorizDistance": 4629,
+    "estDepartureAirportVertDistance": 60,
+    "estArrivalAirportHorizDistance": 5790,
+    "estArrivalAirportVertDistance": 87,
+    "departureAirportCandidatesCount": 1,
+    "arrivalAirportCandidatesCount": 0
+  },
+  {
+    "icao24": "020124",
+    "firstSeen": 1773257958,
+    "estDepartureAirport": "LEBL",
+    "lastSeen": 1773262846,
+    "estArrivalAirport": "GMTT",
+    "callsign": "MAC378Y ",
+    "estDepartureAirportHorizDistance": 1353,
+    "estDepartureAirportVertDistance": 95,
+    "estArrivalAirportHorizDistance": 5739,
+    "estArrivalAirportVertDistance": 95,
+    "departureAirportCandidatesCount": 0,
+    "arrivalAirportCandidatesCount": 0
+  }
+]

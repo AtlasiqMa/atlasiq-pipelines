@@ -1,6 +1,8 @@
 x-airflow-common:
   &airflow-common
   image: apache/airflow:2.8.1
+  env_file:
+    - .env
   environment:
     &airflow-common-env
     AIRFLOW__CORE__EXECUTOR: LocalExecutor
@@ -9,6 +11,7 @@ x-airflow-common:
     AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
     AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
     AIRFLOW__API__AUTH_BACKENDS: 'airflow.api.auth.backend.basic_auth'
+    AVIATIONSTACK_API_KEY: ${AVIATIONSTACK_API_KEY}
     PYTHONPATH: /opt/airflow
   volumes:
     - ./data:/opt/airflow/data

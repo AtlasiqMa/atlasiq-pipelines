@@ -1,0 +1,1223 @@
+[
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": "1",
+      "delay": null,
+      "scheduled": "2026-03-12T21:20:00+00:00",
+      "estimated": "2026-03-12T21:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Bergamo - Orio al Serio",
+      "timezone": "Europe/Rome",
+      "iata": "BGY",
+      "icao": "LIME",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-13T01:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "3546",
+      "iata": "FR3546",
+      "icao": "RYR3546",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "4CA304"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T20:30:00+00:00",
+      "estimated": "2026-03-12T20:30:00+00:00",
+      "actual": "2026-03-12T20:11:00+00:00",
+      "estimated_runway": "2026-03-12T20:11:00+00:00",
+      "actual_runway": "2026-03-12T20:11:00+00:00"
+    },
+    "arrival": {
+      "airport": "Menara",
+      "timezone": "Africa/Casablanca",
+      "iata": "RAK",
+      "icao": "GMMX",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T21:35:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T20:56:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "6730",
+      "iata": "FR6730",
+      "icao": "RYR6730",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "EI-EFI",
+      "iata": "B738",
+      "icao": "B738",
+      "icao24": "4CA764"
+    },
+    "live": {
+      "updated": "2026-03-12T20:42:55+00:00",
+      "latitude": 32.022,
+      "longitude": -8.1595,
+      "altitude": 2926.08,
+      "direction": 191,
+      "speed_horizontal": 631.532,
+      "speed_vertical": 0,
+      "is_ground": false
+    }
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": "1",
+      "delay": null,
+      "scheduled": "2026-03-12T16:25:00+00:00",
+      "estimated": "2026-03-12T16:25:00+00:00",
+      "actual": "2026-03-12T16:39:00+00:00",
+      "estimated_runway": "2026-03-12T16:39:00+00:00",
+      "actual_runway": "2026-03-12T16:39:00+00:00"
+    },
+    "arrival": {
+      "airport": "Blagnac",
+      "timezone": "Europe/Paris",
+      "iata": "TLS",
+      "icao": "LFBO",
+      "terminal": null,
+      "gate": "4",
+      "baggage": "6",
+      "scheduled": "2026-03-12T19:35:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T19:26:00+00:00",
+      "actual": "2026-03-12T19:26:00+00:00",
+      "estimated_runway": "2026-03-12T19:26:00+00:00",
+      "actual_runway": "2026-03-12T19:26:00+00:00"
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "3552",
+      "iata": "FR3552",
+      "icao": "RYR3552",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "4D2279"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": "2",
+      "delay": null,
+      "scheduled": "2026-03-12T13:10:00+00:00",
+      "estimated": "2026-03-12T13:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Beauvais-Tille",
+      "timezone": "Europe/Paris",
+      "iata": "BVA",
+      "icao": "LFOB",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T17:00:00+00:00",
+      "delay": 70,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "5222",
+      "iata": "FR5222",
+      "icao": "RYR5222",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "4D2287"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T09:50:00+00:00",
+      "estimated": "2026-03-12T09:50:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Orly",
+      "timezone": "Europe/Paris",
+      "iata": "ORY",
+      "icao": "LFPO",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T13:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Transavia France",
+      "iata": "TO",
+      "icao": "TVF"
+    },
+    "flight": {
+      "number": "3051",
+      "iata": "TO3051",
+      "icao": "TVF3051",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "F-HXSN",
+      "iata": "A20N",
+      "icao": "A20N",
+      "icao24": "39DE4D"
+    },
+    "live": {
+      "updated": "2026-03-12T12:42:00+00:00",
+      "latitude": 48.7239,
+      "longitude": 2.3614,
+      "altitude": 0,
+      "direction": 199,
+      "speed_horizontal": 0,
+      "speed_vertical": 0,
+      "is_ground": true
+    }
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": "1",
+      "delay": null,
+      "scheduled": "2026-03-12T12:50:00+00:00",
+      "estimated": "2026-03-12T12:50:00+00:00",
+      "actual": "2026-03-12T12:45:00+00:00",
+      "estimated_runway": "2026-03-12T12:45:00+00:00",
+      "actual_runway": "2026-03-12T12:45:00+00:00"
+    },
+    "arrival": {
+      "airport": "Frankfurt-Hahn",
+      "timezone": "Europe/Berlin",
+      "iata": "HHN",
+      "icao": "EDFH",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T17:15:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T16:47:00+00:00",
+      "actual": "2026-03-12T16:47:00+00:00",
+      "estimated_runway": "2026-03-12T16:47:00+00:00",
+      "actual_runway": "2026-03-12T16:47:00+00:00"
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "5703",
+      "iata": "FR5703",
+      "icao": "RYR5703",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "4CA764"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": "2",
+      "delay": null,
+      "scheduled": "2026-03-12T11:25:00+00:00",
+      "estimated": "2026-03-12T11:25:00+00:00",
+      "actual": "2026-03-12T11:21:00+00:00",
+      "estimated_runway": "2026-03-12T11:21:00+00:00",
+      "actual_runway": "2026-03-12T11:21:00+00:00"
+    },
+    "arrival": {
+      "airport": "El Prat De Llobregat",
+      "timezone": "Europe/Madrid",
+      "iata": "BCN",
+      "icao": "LEBL",
+      "terminal": "2",
+      "gate": null,
+      "baggage": "45",
+      "scheduled": "2026-03-12T14:25:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T13:56:00+00:00",
+      "actual": "2026-03-12T13:57:00+00:00",
+      "estimated_runway": "2026-03-12T13:57:00+00:00",
+      "actual_runway": "2026-03-12T13:57:00+00:00"
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "3188",
+      "iata": "FR3188",
+      "icao": "RYR3188",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "4D2279"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": "1",
+      "delay": null,
+      "scheduled": "2026-03-12T10:25:00+00:00",
+      "estimated": "2026-03-12T10:25:00+00:00",
+      "actual": "2026-03-12T10:41:00+00:00",
+      "estimated_runway": "2026-03-12T10:41:00+00:00",
+      "actual_runway": "2026-03-12T10:41:00+00:00"
+    },
+    "arrival": {
+      "airport": "Marseille Provence Airport",
+      "timezone": "Europe/Paris",
+      "iata": "MRS",
+      "icao": "LFML",
+      "terminal": "2",
+      "gate": null,
+      "baggage": "23",
+      "scheduled": "2026-03-12T13:45:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T13:38:00+00:00",
+      "actual": "2026-03-12T13:38:00+00:00",
+      "estimated_runway": "2026-03-12T13:38:00+00:00",
+      "actual_runway": "2026-03-12T13:38:00+00:00"
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "5163",
+      "iata": "FR5163",
+      "icao": "RYR5163",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "4CA303"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "cancelled",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T09:55:00+00:00",
+      "estimated": "2026-03-12T09:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Charleroi Brussels South",
+      "timezone": "Europe/Brussels",
+      "iata": "CRL",
+      "icao": "EBCI",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T13:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "5002",
+      "iata": "FR5002",
+      "icao": "RYR5002",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-12T09:50:00+00:00",
+      "estimated": "2026-03-12T09:50:00+00:00",
+      "actual": "2026-03-12T09:54:00+00:00",
+      "estimated_runway": "2026-03-12T09:54:00+00:00",
+      "actual_runway": "2026-03-12T09:54:00+00:00"
+    },
+    "arrival": {
+      "airport": "Orly",
+      "timezone": "Europe/Paris",
+      "iata": "ORY",
+      "icao": "LFPO",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T13:50:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T13:30:00+00:00",
+      "actual": "2026-03-12T13:33:00+00:00",
+      "estimated_runway": "2026-03-12T13:33:00+00:00",
+      "actual_runway": "2026-03-12T13:33:00+00:00"
+    },
+    "airline": {
+      "name": "Transavia",
+      "iata": "HV",
+      "icao": "TRA"
+    },
+    "flight": {
+      "number": "3051",
+      "iata": "HV3051",
+      "icao": "TRA3051",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "39DE4D"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": "4",
+      "delay": 59,
+      "scheduled": "2026-03-12T07:15:00+00:00",
+      "estimated": "2026-03-12T07:15:00+00:00",
+      "actual": "2026-03-12T08:30:00+00:00",
+      "estimated_runway": "2026-03-12T08:30:00+00:00",
+      "actual_runway": "2026-03-12T08:30:00+00:00"
+    },
+    "arrival": {
+      "airport": "Garons",
+      "timezone": "Europe/Paris",
+      "iata": "FNI",
+      "icao": "LFTW",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T10:35:00+00:00",
+      "delay": 58,
+      "estimated": "2026-03-12T11:33:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "5908",
+      "iata": "FR5908",
+      "icao": "RYR5908",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "4D2287"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": "3",
+      "delay": null,
+      "scheduled": "2026-03-12T05:00:00+00:00",
+      "estimated": "2026-03-12T05:00:00+00:00",
+      "actual": "2026-03-12T05:10:00+00:00",
+      "estimated_runway": "2026-03-12T05:10:00+00:00",
+      "actual_runway": "2026-03-12T05:10:00+00:00"
+    },
+    "arrival": {
+      "airport": "Nantes Atlantique",
+      "timezone": "Europe/Paris",
+      "iata": "NTE",
+      "icao": "LFRS",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T08:35:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T08:28:00+00:00",
+      "actual": "2026-03-12T08:28:00+00:00",
+      "estimated_runway": "2026-03-12T08:28:00+00:00",
+      "actual_runway": "2026-03-12T08:28:00+00:00"
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "4427",
+      "iata": "FR4427",
+      "icao": "RYR4427",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "4D2279"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-12",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": "2",
+      "delay": null,
+      "scheduled": "2026-03-12T04:45:00+00:00",
+      "estimated": "2026-03-12T04:45:00+00:00",
+      "actual": "2026-03-12T04:49:00+00:00",
+      "estimated_runway": "2026-03-12T04:49:00+00:00",
+      "actual_runway": "2026-03-12T04:49:00+00:00"
+    },
+    "arrival": {
+      "airport": "Weeze",
+      "timezone": "Europe/Berlin",
+      "iata": "NRN",
+      "icao": "EDLV",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-12T09:10:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-12T09:00:00+00:00",
+      "actual": "2026-03-12T08:49:00+00:00",
+      "estimated_runway": "2026-03-12T08:49:00+00:00",
+      "actual_runway": "2026-03-12T08:49:00+00:00"
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "5884",
+      "iata": "FR5884",
+      "icao": "RYR5884",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "4CA764"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-11",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": "1",
+      "delay": 12,
+      "scheduled": "2026-03-11T17:40:00+00:00",
+      "estimated": "2026-03-11T17:40:00+00:00",
+      "actual": "2026-03-11T18:04:00+00:00",
+      "estimated_runway": "2026-03-11T18:04:00+00:00",
+      "actual_runway": "2026-03-11T18:04:00+00:00"
+    },
+    "arrival": {
+      "airport": "Charleroi Brussels South",
+      "timezone": "Europe/Brussels",
+      "iata": "CRL",
+      "icao": "EBCI",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-11T21:40:00+00:00",
+      "delay": 12,
+      "estimated": "2026-03-11T21:51:00+00:00",
+      "actual": "2026-03-11T21:52:00+00:00",
+      "estimated_runway": "2026-03-11T21:52:00+00:00",
+      "actual_runway": "2026-03-11T21:52:00+00:00"
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "5002",
+      "iata": "FR5002",
+      "icao": "RYR5002",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "4CA809"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-11",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": "1",
+      "delay": null,
+      "scheduled": "2026-03-11T08:50:00+00:00",
+      "estimated": "2026-03-11T08:50:00+00:00",
+      "actual": "2026-03-11T08:24:00+00:00",
+      "estimated_runway": "2026-03-11T08:24:00+00:00",
+      "actual_runway": "2026-03-11T08:24:00+00:00"
+    },
+    "arrival": {
+      "airport": "Frankfurt-Hahn",
+      "timezone": "Europe/Berlin",
+      "iata": "HHN",
+      "icao": "EDFH",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-11T13:15:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-11T12:33:00+00:00",
+      "actual": "2026-03-11T12:27:00+00:00",
+      "estimated_runway": "2026-03-11T12:27:00+00:00",
+      "actual_runway": "2026-03-11T12:27:00+00:00"
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "5703",
+      "iata": "FR5703",
+      "icao": "RYR5703",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "4D220A"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-11",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": "1",
+      "delay": 13,
+      "scheduled": "2026-03-11T07:30:00+00:00",
+      "estimated": "2026-03-11T07:30:00+00:00",
+      "actual": "2026-03-11T08:03:00+00:00",
+      "estimated_runway": "2026-03-11T08:03:00+00:00",
+      "actual_runway": "2026-03-11T08:03:00+00:00"
+    },
+    "arrival": {
+      "airport": "El Prat De Llobregat",
+      "timezone": "Europe/Madrid",
+      "iata": "BCN",
+      "icao": "LEBL",
+      "terminal": "2",
+      "gate": null,
+      "baggage": "40",
+      "scheduled": "2026-03-11T10:30:00+00:00",
+      "delay": 13,
+      "estimated": "2026-03-11T10:40:00+00:00",
+      "actual": "2026-03-11T10:43:00+00:00",
+      "estimated_runway": "2026-03-11T10:43:00+00:00",
+      "actual_runway": "2026-03-11T10:43:00+00:00"
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "9405",
+      "iata": "FR9405",
+      "icao": "RYR9405",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "4CAA61"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-11",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-11T06:25:00+00:00",
+      "estimated": "2026-03-11T06:25:00+00:00",
+      "actual": "2026-03-11T06:06:00+00:00",
+      "estimated_runway": "2026-03-11T06:06:00+00:00",
+      "actual_runway": "2026-03-11T06:06:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-11T07:35:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-11T06:45:00+00:00",
+      "actual": "2026-03-11T06:46:00+00:00",
+      "estimated_runway": "2026-03-11T06:46:00+00:00",
+      "actual_runway": "2026-03-11T06:46:00+00:00"
+    },
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iata": "AT",
+      "icao": "RAM"
+    },
+    "flight": {
+      "number": "441",
+      "iata": "AT441",
+      "icao": "RAM441",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200F2"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-11",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-11T06:25:00+00:00",
+      "estimated": "2026-03-11T06:25:00+00:00",
+      "actual": "2026-03-11T06:06:00+00:00",
+      "estimated_runway": "2026-03-11T06:06:00+00:00",
+      "actual_runway": "2026-03-11T06:06:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-11T07:35:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-11T06:45:00+00:00",
+      "actual": "2026-03-11T06:46:00+00:00",
+      "estimated_runway": "2026-03-11T06:46:00+00:00",
+      "actual_runway": "2026-03-11T06:46:00+00:00"
+    },
+    "airline": {
+      "name": "Turkish Airlines",
+      "iata": "TK",
+      "icao": "THY"
+    },
+    "flight": {
+      "number": "8315",
+      "iata": "TK8315",
+      "icao": "THY8315",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "441",
+        "flight_iata": "at441",
+        "flight_icao": "ram441"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200F2"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-11",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-11T06:25:00+00:00",
+      "estimated": "2026-03-11T06:25:00+00:00",
+      "actual": "2026-03-11T06:06:00+00:00",
+      "estimated_runway": "2026-03-11T06:06:00+00:00",
+      "actual_runway": "2026-03-11T06:06:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-11T07:35:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-11T06:45:00+00:00",
+      "actual": "2026-03-11T06:46:00+00:00",
+      "estimated_runway": "2026-03-11T06:46:00+00:00",
+      "actual_runway": "2026-03-11T06:46:00+00:00"
+    },
+    "airline": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR"
+    },
+    "flight": {
+      "number": "4528",
+      "iata": "QR4528",
+      "icao": "QTR4528",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "441",
+        "flight_iata": "at441",
+        "flight_icao": "ram441"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200F2"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-11",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-11T06:25:00+00:00",
+      "estimated": "2026-03-11T06:25:00+00:00",
+      "actual": "2026-03-11T06:06:00+00:00",
+      "estimated_runway": "2026-03-11T06:06:00+00:00",
+      "actual_runway": "2026-03-11T06:06:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-11T07:35:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-11T06:45:00+00:00",
+      "actual": "2026-03-11T06:46:00+00:00",
+      "estimated_runway": "2026-03-11T06:46:00+00:00",
+      "actual_runway": "2026-03-11T06:46:00+00:00"
+    },
+    "airline": {
+      "name": "Gol",
+      "iata": "G3",
+      "icao": "GLO"
+    },
+    "flight": {
+      "number": "8962",
+      "iata": "G38962",
+      "icao": "GLO8962",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "441",
+        "flight_iata": "at441",
+        "flight_icao": "ram441"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200F2"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-11",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-11T06:25:00+00:00",
+      "estimated": "2026-03-11T06:25:00+00:00",
+      "actual": "2026-03-11T06:06:00+00:00",
+      "estimated_runway": "2026-03-11T06:06:00+00:00",
+      "actual_runway": "2026-03-11T06:06:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-11T07:35:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-11T06:45:00+00:00",
+      "actual": "2026-03-11T06:46:00+00:00",
+      "estimated_runway": "2026-03-11T06:46:00+00:00",
+      "actual_runway": "2026-03-11T06:46:00+00:00"
+    },
+    "airline": {
+      "name": "Alitalia",
+      "iata": "AZ",
+      "icao": "AZA"
+    },
+    "flight": {
+      "number": "6123",
+      "iata": "AZ6123",
+      "icao": "AZA6123",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "441",
+        "flight_iata": "at441",
+        "flight_icao": "ram441"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200F2"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-11",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2026-03-11T06:25:00+00:00",
+      "estimated": "2026-03-11T06:25:00+00:00",
+      "actual": "2026-03-11T06:06:00+00:00",
+      "estimated_runway": "2026-03-11T06:06:00+00:00",
+      "actual_runway": "2026-03-11T06:06:00+00:00"
+    },
+    "arrival": {
+      "airport": "Mohamed V",
+      "timezone": "Africa/Casablanca",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-11T07:35:00+00:00",
+      "delay": null,
+      "estimated": "2026-03-11T06:45:00+00:00",
+      "actual": "2026-03-11T06:46:00+00:00",
+      "estimated_runway": "2026-03-11T06:46:00+00:00",
+      "actual_runway": "2026-03-11T06:46:00+00:00"
+    },
+    "airline": {
+      "name": "American Airlines",
+      "iata": "AA",
+      "icao": "AAL"
+    },
+    "flight": {
+      "number": "7962",
+      "iata": "AA7962",
+      "icao": "AAL7962",
+      "codeshared": {
+        "airline_name": "royal air maroc",
+        "airline_iata": "at",
+        "airline_icao": "ram",
+        "flight_number": "441",
+        "flight_iata": "at441",
+        "flight_icao": "ram441"
+      }
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "0200F2"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2026-03-11",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Sais",
+      "timezone": "Africa/Casablanca",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "terminal": null,
+      "gate": "2",
+      "delay": 84,
+      "scheduled": "2026-03-11T05:35:00+00:00",
+      "estimated": "2026-03-11T05:35:00+00:00",
+      "actual": "2026-03-11T06:53:00+00:00",
+      "estimated_runway": "2026-03-11T06:53:00+00:00",
+      "actual_runway": "2026-03-11T06:53:00+00:00"
+    },
+    "arrival": {
+      "airport": "Beauvais-Tille",
+      "timezone": "Europe/Paris",
+      "iata": "BVA",
+      "icao": "LFOB",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2026-03-11T09:25:00+00:00",
+      "delay": 83,
+      "estimated": "2026-03-11T10:48:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Ryanair",
+      "iata": "FR",
+      "icao": "RYR"
+    },
+    "flight": {
+      "number": "5222",
+      "iata": "FR5222",
+      "icao": "RYR5222",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": null,
+      "iata": null,
+      "icao": null,
+      "icao24": "4CA809"
+    },
+    "live": null
+  }
+]

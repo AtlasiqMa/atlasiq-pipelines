@@ -1,0 +1,16 @@
+[
+  {
+    "icao24": "39d310",
+    "firstSeen": 1773225564,
+    "estDepartureAirport": "LFPO",
+    "lastSeen": 1773234265,
+    "estArrivalAirport": "GMMN",
+    "callsign": "TVF40KD ",
+    "estDepartureAirportHorizDistance": 4781,
+    "estDepartureAirportVertDistance": 338,
+    "estArrivalAirportHorizDistance": 24455,
+    "estArrivalAirportVertDistance": 8669,
+    "departureAirportCandidatesCount": 88,
+    "arrivalAirportCandidatesCount": 0
+  }
+]
