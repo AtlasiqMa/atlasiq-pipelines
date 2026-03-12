@@ -1,0 +1,65 @@
+{
+  "latitude": 35.75,
+  "longitude": -5.8125,
+  "generationtime_ms": 0.1659393310546875,
+  "utc_offset_seconds": 0,
+  "timezone": "Africa/Casablanca",
+  "timezone_abbreviation": "GMT",
+  "elevation": 48.0,
+  "daily_units": {
+    "time": "iso8601",
+    "temperature_2m_max": "\u00b0C",
+    "temperature_2m_min": "\u00b0C",
+    "precipitation_sum": "mm",
+    "windspeed_10m_max": "km/h"
+  },
+  "daily": {
+    "time": [
+      "2026-03-12",
+      "2026-03-13",
+      "2026-03-14",
+      "2026-03-15",
+      "2026-03-16",
+      "2026-03-17",
+      "2026-03-18"
+    ],
+    "temperature_2m_max": [
+      18.1,
+      19.8,
+      15.8,
+      18.4,
+      19.6,
+      18.3,
+      17.8
+    ],
+    "temperature_2m_min": [
+      11.7,
+      11.7,
+      10.4,
+      11.7,
+      10.0,
+      14.2,
+      15.1
+    ],
+    "precipitation_sum": [
+      0.0,
+      0.0,
+      0.3,
+      0.3,
+      0.0,
+      2.5,
+      2.6
+    ],
+    "windspeed_10m_max": [
+      22.9,
+      13.5,
+      20.7,
+      11.7,
+      25.6,
+      40.8,
+      29.7
+    ]
+  },
+  "city": "Tangier",
+  "extracted_at": "2026-03-12T21:09:51.004886"
+}
