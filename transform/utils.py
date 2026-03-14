@@ -46,13 +46,11 @@ def load_raw_files(source: str) -> list:
 
 
 def save_processed(data: list, table_name: str) -> str:
-    """
-    Save processed records to both local storage and S3.
-    Returns the S3 path.
-    """
     today    = datetime.now().strftime("%Y-%m-%d")
     filename = f"{table_name}_{today}.json"
-    content  = json.dumps(data, indent=2)
+
+    # NDJSON format — one record per line for Athena compatibility
+    content  = "\n".join(json.dumps(record) for record in data)
 
     # Save locally
     local_path = f"/opt/airflow/data/processed/{table_name}"
@@ -70,7 +68,7 @@ def save_processed(data: list, table_name: str) -> str:
             Bucket      = S3_BUCKET,
             Key         = s3_key,
             Body        = content.encode("utf-8"),
-            ContentType = "application/json",
+            ContentType = "application/x-ndjson",
         )
         s3_path = f"s3://{S3_BUCKET}/{s3_key}"
         print(f"Uploaded to {s3_path}")
@@ -78,12 +76,9 @@ def save_processed(data: list, table_name: str) -> str:
     except Exception as e:
         print(f"S3 upload failed: {e}")
         return local_filepath
-
-
+    
+    
 def add_metadata(record: dict, source: str) -> dict:
-    """
-    Add standard metadata fields to every processed record.
-    """
-    record["_source"]       = source
-    record["_processed_at"] = datetime.now().isoformat()
+    record["source"]       = source
+    record["processed_at"] = datetime.now().isoformat()
     return record
