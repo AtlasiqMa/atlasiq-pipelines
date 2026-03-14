@@ -2,6 +2,10 @@ import requests
 import json
 import os
 from datetime import datetime
+from extract.utils import upload_raw_to_s3
+import time
+
+
 
 
 AVIATIONSTACK_BASE_URL = "http://api.aviationstack.com/v1"
@@ -93,21 +97,31 @@ def extract_aviationstack_flights() -> None:
     """
     print("Extracting flight data from AviationStack...")
 
+    
     for city, iata in MOROCCAN_AIRPORTS.items():
-        # Arrivals
         try:
-            print(f"Fetching arrivals for {city} ({iata})...")
             arrivals = fetch_arrivals(iata)
             save_raw(arrivals, city, "arrivals")
+            time.sleep(2)  # 2 seconds between requests
         except Exception as e:
             print(f"Failed arrivals for {city}: {e}")
 
-        # Departures
         try:
-            print(f"Fetching departures for {city} ({iata})...")
             departures = fetch_departures(iata)
             save_raw(departures, city, "departures")
+            time.sleep(2)
         except Exception as e:
             print(f"Failed departures for {city}: {e}")
 
     print("AviationStack extraction complete.")
+
+
+def save_raw(data: list, airport_name: str, direction: str) -> str:
+    os.makedirs(RAW_DATA_PATH, exist_ok=True)
+    today    = datetime.now().strftime("%Y-%m-%d")
+    filename = f"{direction}_{airport_name.lower()}_{today}.json"
+    filepath = os.path.join(RAW_DATA_PATH, filename)
+    with open(filepath, "w") as f:
+        json.dump(data, f, indent=2)
+    upload_raw_to_s3(filepath, "aviationstack")
+    return filepath
