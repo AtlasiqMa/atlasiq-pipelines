@@ -2,6 +2,8 @@ import requests
 import json
 import os
 from datetime import datetime
+from extract.utils import upload_raw_to_s3
+
 
 
 WORLDBANK_BASE_URL = "https://api.worldbank.org/v2"
@@ -63,4 +65,16 @@ def extract_tourist_arrivals() -> str:
     records = fetch_indicator("ST.INT.ARVL")
     filepath = save_raw(records, "ST.INT.ARVL")
     print(f"Extraction complete. {len(records)} years of data saved.")
+    return filepath
+
+
+
+def save_raw(data: list, indicator: str) -> str:
+    os.makedirs(RAW_DATA_PATH, exist_ok=True)
+    today    = datetime.now().strftime("%Y-%m-%d")
+    filename = f"{indicator}_{today}.json"
+    filepath = os.path.join(RAW_DATA_PATH, filename)
+    with open(filepath, "w") as f:
+        json.dump(data, f, indent=2)
+    upload_raw_to_s3(filepath, "worldbank")
     return filepath

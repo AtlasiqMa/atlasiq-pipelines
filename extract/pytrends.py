@@ -5,6 +5,8 @@ from datetime import datetime
 
 import pandas as pd
 from pytrends.request import TrendReq
+from extract.utils import upload_raw_to_s3
+
 
 
 RAW_DATA_PATH = "/opt/airflow/data/raw/pytrends"
@@ -126,3 +128,15 @@ def extract_google_trends() -> None:
             continue
 
     print("Google Trends extraction complete.")
+
+
+
+def save_raw(data: dict, group_name: str) -> str:
+    os.makedirs(RAW_DATA_PATH, exist_ok=True)
+    today    = datetime.now().strftime("%Y-%m-%d")
+    filename = f"trends_{group_name}_{today}.json"
+    filepath = os.path.join(RAW_DATA_PATH, filename)
+    with open(filepath, "w") as f:
+        json.dump(data, f, indent=2)
+    upload_raw_to_s3(filepath, "pytrends")
+    return filepath

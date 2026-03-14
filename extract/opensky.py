@@ -2,6 +2,8 @@ import requests
 import json
 import os
 from datetime import datetime, timedelta
+from extract.utils import upload_raw_to_s3
+
 
 
 OPENSKY_TOKEN_URL = "https://auth.opensky-network.org/auth/realms/opensky-network/protocol/openid-connect/token"
@@ -101,3 +103,21 @@ def extract_flight_arrivals() -> None:
             continue
 
     print("Flight extraction complete.")
+
+
+def save_raw(data: list, indicator: str) -> str:
+    os.makedirs(RAW_DATA_PATH, exist_ok=True)
+
+    today    = datetime.now().strftime("%Y-%m-%d")
+    filename = f"{indicator}_{today}.json"
+    filepath = os.path.join(RAW_DATA_PATH, filename)
+
+    with open(filepath, "w") as f:
+        json.dump(data, f, indent=2)
+
+    print(f"Saved {len(data)} records to {filepath}")
+
+    # Upload to S3
+    upload_raw_to_s3(filepath, "worldbank")
+
+    return filepath

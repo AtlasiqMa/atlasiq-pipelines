@@ -2,6 +2,8 @@ import requests
 import json
 import os
 from datetime import datetime
+from extract.utils import upload_raw_to_s3
+
 
 
 OPENMETEO_BASE_URL = "https://api.open-meteo.com/v1/forecast"
@@ -77,3 +79,14 @@ def extract_weather() -> None:
             continue
 
     print("Weather extraction complete.")
+
+
+def save_raw(data: dict, city: str) -> str:
+    os.makedirs(RAW_DATA_PATH, exist_ok=True)
+    today    = datetime.now().strftime("%Y-%m-%d")
+    filename = f"weather_{city.lower()}_{today}.json"
+    filepath = os.path.join(RAW_DATA_PATH, filename)
+    with open(filepath, "w") as f:
+        json.dump(data, f, indent=2)
+    upload_raw_to_s3(filepath, "openmeteo")
+    return filepath
